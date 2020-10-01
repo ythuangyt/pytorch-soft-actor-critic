@@ -1,0 +1,233 @@
+Episode: 1, total numsteps: 1000, episode steps: 1000, reward: -4.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 2, total numsteps: 2000, episode steps: 1000, reward: -7.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 3, total numsteps: 3000, episode steps: 1000, reward: -0.89
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 4, total numsteps: 4000, episode steps: 1000, reward: 6.78
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 5, total numsteps: 5000, episode steps: 1000, reward: -2.12
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 6, total numsteps: 6000, episode steps: 1000, reward: -31.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 7, total numsteps: 7000, episode steps: 1000, reward: -0.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 8, total numsteps: 8000, episode steps: 1000, reward: 2.8
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 9, total numsteps: 9000, episode steps: 1000, reward: 19.0
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 10, total numsteps: 10000, episode steps: 1000, reward: 12.41
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 12.22
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 11, total numsteps: 11000, episode steps: 1000, reward: -15.34
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 12, total numsteps: 12000, episode steps: 1000, reward: -10.05
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 13, total numsteps: 13000, episode steps: 1000, reward: 11.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 14, total numsteps: 14000, episode steps: 1000, reward: -10.87
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 15, total numsteps: 15000, episode steps: 1000, reward: 25.62
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 16, total numsteps: 16000, episode steps: 1000, reward: 1.35
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 17, total numsteps: 17000, episode steps: 1000, reward: 9.05
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 18, total numsteps: 18000, episode steps: 1000, reward: 12.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 19, total numsteps: 19000, episode steps: 1000, reward: 19.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 20, total numsteps: 20000, episode steps: 1000, reward: 22.34
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 11.71
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 21, total numsteps: 21000, episode steps: 1000, reward: 11.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 22, total numsteps: 22000, episode steps: 1000, reward: 32.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 23, total numsteps: 23000, episode steps: 1000, reward: 6.9
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 24, total numsteps: 24000, episode steps: 1000, reward: 12.64
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 25, total numsteps: 25000, episode steps: 1000, reward: 4.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 26, total numsteps: 26000, episode steps: 1000, reward: 20.62
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 27, total numsteps: 27000, episode steps: 1000, reward: 15.57
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 28, total numsteps: 28000, episode steps: 1000, reward: 9.05
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 29, total numsteps: 29000, episode steps: 1000, reward: 24.43
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 30, total numsteps: 30000, episode steps: 1000, reward: 22.74
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 32.36
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 31, total numsteps: 31000, episode steps: 1000, reward: 21.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 32, total numsteps: 32000, episode steps: 1000, reward: 20.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 33, total numsteps: 33000, episode steps: 1000, reward: 24.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 34, total numsteps: 34000, episode steps: 1000, reward: 33.04
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 35, total numsteps: 35000, episode steps: 1000, reward: 30.34
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 36, total numsteps: 36000, episode steps: 1000, reward: 33.51
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 37, total numsteps: 37000, episode steps: 1000, reward: 35.11
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 38, total numsteps: 38000, episode steps: 1000, reward: 43.01
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 39, total numsteps: 39000, episode steps: 1000, reward: 33.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 40, total numsteps: 40000, episode steps: 1000, reward: 31.89
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 40.59
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 41, total numsteps: 41000, episode steps: 1000, reward: 37.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 42, total numsteps: 42000, episode steps: 1000, reward: 38.62
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 43, total numsteps: 43000, episode steps: 1000, reward: 35.34
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 44, total numsteps: 44000, episode steps: 1000, reward: 36.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 45, total numsteps: 45000, episode steps: 1000, reward: 34.7
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 46, total numsteps: 46000, episode steps: 1000, reward: 32.69
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 47, total numsteps: 47000, episode steps: 1000, reward: 35.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 48, total numsteps: 48000, episode steps: 1000, reward: 32.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 49, total numsteps: 49000, episode steps: 1000, reward: 31.04
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 50, total numsteps: 50000, episode steps: 1000, reward: 29.74
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 37.21
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 51, total numsteps: 51000, episode steps: 1000, reward: 33.69
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 52, total numsteps: 52000, episode steps: 1000, reward: 30.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 53, total numsteps: 53000, episode steps: 1000, reward: 34.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 54, total numsteps: 54000, episode steps: 1000, reward: 32.75
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 55, total numsteps: 55000, episode steps: 1000, reward: 31.47
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 56, total numsteps: 56000, episode steps: 1000, reward: 29.12
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 57, total numsteps: 57000, episode steps: 1000, reward: 30.63
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 58, total numsteps: 58000, episode steps: 1000, reward: 28.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 59, total numsteps: 59000, episode steps: 1000, reward: 30.47
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 60, total numsteps: 60000, episode steps: 1000, reward: 29.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 36.31
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 61, total numsteps: 61000, episode steps: 1000, reward: 30.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 62, total numsteps: 62000, episode steps: 1000, reward: 33.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 63, total numsteps: 63000, episode steps: 1000, reward: 30.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 64, total numsteps: 64000, episode steps: 1000, reward: 31.95
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 65, total numsteps: 65000, episode steps: 1000, reward: 34.24
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 66, total numsteps: 66000, episode steps: 1000, reward: 32.41
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 67, total numsteps: 67000, episode steps: 1000, reward: 28.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 68, total numsteps: 68000, episode steps: 1000, reward: 30.01
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 69, total numsteps: 69000, episode steps: 1000, reward: 33.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 70, total numsteps: 70000, episode steps: 1000, reward: 29.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 36.87
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 71, total numsteps: 71000, episode steps: 1000, reward: 31.65
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 72, total numsteps: 72000, episode steps: 1000, reward: 27.87
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 73, total numsteps: 73000, episode steps: 1000, reward: 31.27
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 74, total numsteps: 74000, episode steps: 1000, reward: 28.89
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 75, total numsteps: 75000, episode steps: 1000, reward: 28.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 76, total numsteps: 76000, episode steps: 1000, reward: 27.71
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 77, total numsteps: 77000, episode steps: 1000, reward: 27.85
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 78, total numsteps: 78000, episode steps: 1000, reward: 28.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 79, total numsteps: 79000, episode steps: 1000, reward: 33.49
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 80, total numsteps: 80000, episode steps: 1000, reward: 31.04
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 35.43
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 81, total numsteps: 81000, episode steps: 1000, reward: 30.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 82, total numsteps: 82000, episode steps: 1000, reward: 30.99
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 83, total numsteps: 83000, episode steps: 1000, reward: 28.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 84, total numsteps: 84000, episode steps: 1000, reward: 26.27
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 85, total numsteps: 85000, episode steps: 1000, reward: 29.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 86, total numsteps: 86000, episode steps: 1000, reward: 31.97
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 87, total numsteps: 87000, episode steps: 1000, reward: 29.2
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 88, total numsteps: 88000, episode steps: 1000, reward: 31.43
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 89, total numsteps: 89000, episode steps: 1000, reward: 32.4
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 90, total numsteps: 90000, episode steps: 1000, reward: 28.99
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 40.13
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 91, total numsteps: 91000, episode steps: 1000, reward: 32.71
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 92, total numsteps: 92000, episode steps: 1000, reward: 30.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 93, total numsteps: 93000, episode steps: 1000, reward: 31.84
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 94, total numsteps: 94000, episode steps: 1000, reward: 29.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 95, total numsteps: 95000, episode steps: 1000, reward: 30.06
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 96, total numsteps: 96000, episode steps: 1000, reward: 34.21
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 97, total numsteps: 97000, episode steps: 1000, reward: 31.93
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 98, total numsteps: 98000, episode steps: 1000, reward: 30.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 99, total numsteps: 99000, episode steps: 1000, reward: 31.86
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 100, total numsteps: 100000, episode steps: 1000, reward: 31.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 38.04
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 101, total numsteps: 101000, episode steps: 1000, reward: 32.36
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Swimmer-v2/1/sac_critic
+Episode: 102, total numsteps: 102000, episode steps: 1000, reward: 27.99
