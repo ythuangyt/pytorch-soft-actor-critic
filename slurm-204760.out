@@ -1,0 +1,1339 @@
+Episode: 1, total numsteps: 18, episode steps: 18, reward: 9.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 2, total numsteps: 31, episode steps: 13, reward: 10.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 3, total numsteps: 49, episode steps: 18, reward: 18.09
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 4, total numsteps: 80, episode steps: 31, reward: 22.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 5, total numsteps: 107, episode steps: 27, reward: 16.95
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 6, total numsteps: 119, episode steps: 12, reward: 10.93
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 7, total numsteps: 143, episode steps: 24, reward: 19.99
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 8, total numsteps: 160, episode steps: 17, reward: 17.4
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 9, total numsteps: 173, episode steps: 13, reward: 10.54
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 10, total numsteps: 223, episode steps: 50, reward: 38.84
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 26.61
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 11, total numsteps: 235, episode steps: 12, reward: 10.33
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 12, total numsteps: 245, episode steps: 10, reward: 8.09
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 13, total numsteps: 270, episode steps: 25, reward: 25.8
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 14, total numsteps: 285, episode steps: 15, reward: 16.21
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 15, total numsteps: 316, episode steps: 31, reward: 33.27
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 16, total numsteps: 343, episode steps: 27, reward: 20.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 17, total numsteps: 366, episode steps: 23, reward: 17.65
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 18, total numsteps: 392, episode steps: 26, reward: 27.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 19, total numsteps: 428, episode steps: 36, reward: 25.1
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 20, total numsteps: 440, episode steps: 12, reward: 9.03
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 44.88
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 21, total numsteps: 454, episode steps: 14, reward: 12.11
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 22, total numsteps: 473, episode steps: 19, reward: 14.33
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 23, total numsteps: 482, episode steps: 9, reward: 7.71
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 24, total numsteps: 497, episode steps: 15, reward: 10.84
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 25, total numsteps: 518, episode steps: 21, reward: 17.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 26, total numsteps: 533, episode steps: 15, reward: 8.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 27, total numsteps: 550, episode steps: 17, reward: 10.06
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 28, total numsteps: 577, episode steps: 27, reward: 18.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 29, total numsteps: 601, episode steps: 24, reward: 22.2
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 30, total numsteps: 614, episode steps: 13, reward: 11.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 50.46
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 31, total numsteps: 656, episode steps: 42, reward: 31.83
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 32, total numsteps: 686, episode steps: 30, reward: 21.91
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 33, total numsteps: 703, episode steps: 17, reward: 14.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 34, total numsteps: 718, episode steps: 15, reward: 5.24
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 35, total numsteps: 736, episode steps: 18, reward: 12.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 36, total numsteps: 750, episode steps: 14, reward: 8.35
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 37, total numsteps: 768, episode steps: 18, reward: 17.41
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 38, total numsteps: 814, episode steps: 46, reward: 58.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 39, total numsteps: 829, episode steps: 15, reward: 10.04
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 40, total numsteps: 848, episode steps: 19, reward: 15.07
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 56.47
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 41, total numsteps: 862, episode steps: 14, reward: 10.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 42, total numsteps: 902, episode steps: 40, reward: 17.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 43, total numsteps: 918, episode steps: 16, reward: 11.76
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 44, total numsteps: 938, episode steps: 20, reward: 17.85
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 45, total numsteps: 950, episode steps: 12, reward: 8.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 46, total numsteps: 961, episode steps: 11, reward: 8.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 47, total numsteps: 983, episode steps: 22, reward: 8.92
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 48, total numsteps: 1025, episode steps: 42, reward: 33.33
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 49, total numsteps: 1043, episode steps: 18, reward: 16.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 50, total numsteps: 1112, episode steps: 69, reward: 123.39
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 166.18
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 51, total numsteps: 1137, episode steps: 25, reward: 11.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 52, total numsteps: 1153, episode steps: 16, reward: 15.57
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 53, total numsteps: 1188, episode steps: 35, reward: 26.99
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 54, total numsteps: 1230, episode steps: 42, reward: 57.41
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 55, total numsteps: 1267, episode steps: 37, reward: 24.47
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 56, total numsteps: 1295, episode steps: 28, reward: 28.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 57, total numsteps: 1310, episode steps: 15, reward: 9.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 58, total numsteps: 1333, episode steps: 23, reward: 26.37
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 59, total numsteps: 1372, episode steps: 39, reward: 35.2
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 60, total numsteps: 1403, episode steps: 31, reward: 24.33
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 86.1
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 61, total numsteps: 1423, episode steps: 20, reward: 10.84
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 62, total numsteps: 1445, episode steps: 22, reward: 25.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 63, total numsteps: 1454, episode steps: 9, reward: 6.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 64, total numsteps: 1466, episode steps: 12, reward: 10.02
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 65, total numsteps: 1475, episode steps: 9, reward: 6.57
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 66, total numsteps: 1510, episode steps: 35, reward: 28.91
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 67, total numsteps: 1540, episode steps: 30, reward: 32.73
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 68, total numsteps: 1556, episode steps: 16, reward: 13.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 69, total numsteps: 1573, episode steps: 17, reward: 14.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 70, total numsteps: 1594, episode steps: 21, reward: 24.18
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 70.01
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 71, total numsteps: 1614, episode steps: 20, reward: 12.64
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 72, total numsteps: 1660, episode steps: 46, reward: 33.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 73, total numsteps: 1676, episode steps: 16, reward: 7.72
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 74, total numsteps: 1693, episode steps: 17, reward: 12.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 75, total numsteps: 1714, episode steps: 21, reward: 23.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 76, total numsteps: 1726, episode steps: 12, reward: 9.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 77, total numsteps: 1742, episode steps: 16, reward: 11.34
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 78, total numsteps: 1762, episode steps: 20, reward: 11.37
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 79, total numsteps: 1773, episode steps: 11, reward: 6.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 80, total numsteps: 1783, episode steps: 10, reward: 8.06
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 63.48
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 81, total numsteps: 1794, episode steps: 11, reward: 9.63
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 82, total numsteps: 1815, episode steps: 21, reward: 12.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 83, total numsteps: 1833, episode steps: 18, reward: 11.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 84, total numsteps: 1841, episode steps: 8, reward: 5.73
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 85, total numsteps: 1860, episode steps: 19, reward: 14.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 86, total numsteps: 1903, episode steps: 43, reward: 38.82
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 87, total numsteps: 1927, episode steps: 24, reward: 18.92
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 88, total numsteps: 1940, episode steps: 13, reward: 8.82
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 89, total numsteps: 1971, episode steps: 31, reward: 16.57
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 90, total numsteps: 1998, episode steps: 27, reward: 14.99
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 61.28
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 91, total numsteps: 2027, episode steps: 29, reward: 11.35
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 92, total numsteps: 2041, episode steps: 14, reward: 6.78
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 93, total numsteps: 2058, episode steps: 17, reward: 11.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 94, total numsteps: 2109, episode steps: 51, reward: 32.24
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 95, total numsteps: 2135, episode steps: 26, reward: 9.64
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 96, total numsteps: 2148, episode steps: 13, reward: 9.71
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 97, total numsteps: 2175, episode steps: 27, reward: 13.79
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 98, total numsteps: 2199, episode steps: 24, reward: 26.75
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 99, total numsteps: 2209, episode steps: 10, reward: 5.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 100, total numsteps: 2224, episode steps: 15, reward: 7.85
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 57.14
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 101, total numsteps: 2250, episode steps: 26, reward: 13.87
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 102, total numsteps: 2280, episode steps: 30, reward: 17.09
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 103, total numsteps: 2291, episode steps: 11, reward: 7.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 104, total numsteps: 2304, episode steps: 13, reward: 11.2
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 105, total numsteps: 2313, episode steps: 9, reward: 6.69
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 106, total numsteps: 2329, episode steps: 16, reward: 8.25
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 107, total numsteps: 2343, episode steps: 14, reward: 12.8
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 108, total numsteps: 2360, episode steps: 17, reward: 11.36
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 109, total numsteps: 2368, episode steps: 8, reward: 5.42
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 110, total numsteps: 2391, episode steps: 23, reward: 13.38
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 55.29
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 111, total numsteps: 2414, episode steps: 23, reward: 15.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 112, total numsteps: 2428, episode steps: 14, reward: 13.46
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 113, total numsteps: 2451, episode steps: 23, reward: 18.24
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 114, total numsteps: 2474, episode steps: 23, reward: 15.44
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 115, total numsteps: 2493, episode steps: 19, reward: 12.34
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 116, total numsteps: 2510, episode steps: 17, reward: 15.34
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 117, total numsteps: 2559, episode steps: 49, reward: 19.39
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 118, total numsteps: 2569, episode steps: 10, reward: 7.59
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 119, total numsteps: 2580, episode steps: 11, reward: 9.1
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 120, total numsteps: 2592, episode steps: 12, reward: 5.62
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 56.06
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 121, total numsteps: 2602, episode steps: 10, reward: 6.52
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 122, total numsteps: 2621, episode steps: 19, reward: 12.05
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 123, total numsteps: 2636, episode steps: 15, reward: 6.7
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 124, total numsteps: 2659, episode steps: 23, reward: 27.8
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 125, total numsteps: 2682, episode steps: 23, reward: 22.63
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 126, total numsteps: 2711, episode steps: 29, reward: 13.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 127, total numsteps: 2732, episode steps: 21, reward: 18.2
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 128, total numsteps: 2742, episode steps: 10, reward: 7.57
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 129, total numsteps: 2755, episode steps: 13, reward: 7.05
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 130, total numsteps: 2765, episode steps: 10, reward: 6.55
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 47.8
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 131, total numsteps: 2775, episode steps: 10, reward: 7.01
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 132, total numsteps: 2788, episode steps: 13, reward: 9.8
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 133, total numsteps: 2799, episode steps: 11, reward: 8.84
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 134, total numsteps: 2816, episode steps: 17, reward: 13.1
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 135, total numsteps: 2833, episode steps: 17, reward: 14.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 136, total numsteps: 2846, episode steps: 13, reward: 11.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 137, total numsteps: 2893, episode steps: 47, reward: 79.59
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 138, total numsteps: 2907, episode steps: 14, reward: 9.12
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 139, total numsteps: 2923, episode steps: 16, reward: 16.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 140, total numsteps: 2939, episode steps: 16, reward: 16.74
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 41.98
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 141, total numsteps: 2950, episode steps: 11, reward: 6.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 142, total numsteps: 2969, episode steps: 19, reward: 15.54
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 143, total numsteps: 2982, episode steps: 13, reward: 9.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 144, total numsteps: 2993, episode steps: 11, reward: 7.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 145, total numsteps: 3003, episode steps: 10, reward: 7.57
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 146, total numsteps: 3066, episode steps: 63, reward: 118.59
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 147, total numsteps: 3086, episode steps: 20, reward: 18.2
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 148, total numsteps: 3107, episode steps: 21, reward: 19.93
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 149, total numsteps: 3121, episode steps: 14, reward: 11.53
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 150, total numsteps: 3151, episode steps: 30, reward: 9.25
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 50.61
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 151, total numsteps: 3161, episode steps: 10, reward: 7.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 152, total numsteps: 3173, episode steps: 12, reward: 9.89
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 153, total numsteps: 3186, episode steps: 13, reward: 10.27
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 154, total numsteps: 3222, episode steps: 36, reward: 11.43
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 155, total numsteps: 3250, episode steps: 28, reward: 19.15
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 156, total numsteps: 3266, episode steps: 16, reward: 14.82
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 157, total numsteps: 3288, episode steps: 22, reward: 10.6
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 158, total numsteps: 3306, episode steps: 18, reward: 14.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 159, total numsteps: 3332, episode steps: 26, reward: 12.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 160, total numsteps: 3346, episode steps: 14, reward: 10.19
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 26.28
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 161, total numsteps: 3361, episode steps: 15, reward: 8.24
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 162, total numsteps: 3373, episode steps: 12, reward: 8.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 163, total numsteps: 3405, episode steps: 32, reward: 28.1
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 164, total numsteps: 3417, episode steps: 12, reward: 10.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 165, total numsteps: 3459, episode steps: 42, reward: 36.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 166, total numsteps: 3470, episode steps: 11, reward: 7.73
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 167, total numsteps: 3496, episode steps: 26, reward: 12.58
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 168, total numsteps: 3512, episode steps: 16, reward: 13.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 169, total numsteps: 3525, episode steps: 13, reward: 11.83
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 170, total numsteps: 3557, episode steps: 32, reward: 24.04
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 49.2
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 171, total numsteps: 3572, episode steps: 15, reward: 11.89
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 172, total numsteps: 3597, episode steps: 25, reward: 7.21
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 173, total numsteps: 3617, episode steps: 20, reward: 8.79
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 174, total numsteps: 3642, episode steps: 25, reward: 25.95
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 175, total numsteps: 3653, episode steps: 11, reward: 8.2
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 176, total numsteps: 3663, episode steps: 10, reward: 7.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 177, total numsteps: 3679, episode steps: 16, reward: 10.6
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 178, total numsteps: 3692, episode steps: 13, reward: 7.96
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 179, total numsteps: 3721, episode steps: 29, reward: 24.71
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 180, total numsteps: 3746, episode steps: 25, reward: 17.89
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 13.27
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 181, total numsteps: 3759, episode steps: 13, reward: 7.86
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 182, total numsteps: 3809, episode steps: 50, reward: 23.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 183, total numsteps: 3837, episode steps: 28, reward: 33.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 184, total numsteps: 3848, episode steps: 11, reward: 6.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 185, total numsteps: 3878, episode steps: 30, reward: 11.52
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 186, total numsteps: 3890, episode steps: 12, reward: 10.42
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 187, total numsteps: 3900, episode steps: 10, reward: 6.79
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 188, total numsteps: 3920, episode steps: 20, reward: 8.53
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 189, total numsteps: 3936, episode steps: 16, reward: 11.95
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 190, total numsteps: 3952, episode steps: 16, reward: 9.65
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 83.26
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 191, total numsteps: 3985, episode steps: 33, reward: 10.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 192, total numsteps: 3996, episode steps: 11, reward: 8.54
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 193, total numsteps: 4012, episode steps: 16, reward: 14.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 194, total numsteps: 4023, episode steps: 11, reward: 7.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 195, total numsteps: 4039, episode steps: 16, reward: 5.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 196, total numsteps: 4054, episode steps: 15, reward: 9.6
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 197, total numsteps: 4071, episode steps: 17, reward: 12.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 198, total numsteps: 4101, episode steps: 30, reward: 30.02
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 199, total numsteps: 4135, episode steps: 34, reward: 43.27
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 200, total numsteps: 4150, episode steps: 15, reward: 13.09
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 19.78
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 201, total numsteps: 4169, episode steps: 19, reward: 20.24
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 202, total numsteps: 4189, episode steps: 20, reward: 10.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 203, total numsteps: 4202, episode steps: 13, reward: 10.05
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 204, total numsteps: 4214, episode steps: 12, reward: 10.24
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 205, total numsteps: 4224, episode steps: 10, reward: 6.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 206, total numsteps: 4244, episode steps: 20, reward: 18.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 207, total numsteps: 4254, episode steps: 10, reward: 8.18
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 208, total numsteps: 4276, episode steps: 22, reward: 20.06
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 209, total numsteps: 4300, episode steps: 24, reward: 22.57
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 210, total numsteps: 4336, episode steps: 36, reward: 33.58
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 10.79
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 211, total numsteps: 4362, episode steps: 26, reward: 20.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 212, total numsteps: 4407, episode steps: 45, reward: 46.2
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 213, total numsteps: 4416, episode steps: 9, reward: 4.83
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 214, total numsteps: 4439, episode steps: 23, reward: 17.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 215, total numsteps: 4458, episode steps: 19, reward: 12.75
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 216, total numsteps: 4501, episode steps: 43, reward: 30.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 217, total numsteps: 4525, episode steps: 24, reward: 19.39
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 218, total numsteps: 4544, episode steps: 19, reward: 12.84
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 219, total numsteps: 4583, episode steps: 39, reward: 31.37
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 220, total numsteps: 4605, episode steps: 22, reward: 21.79
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 11.03
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 221, total numsteps: 4616, episode steps: 11, reward: 9.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 222, total numsteps: 4644, episode steps: 28, reward: 15.99
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 223, total numsteps: 4659, episode steps: 15, reward: 10.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 224, total numsteps: 4689, episode steps: 30, reward: 44.39
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 225, total numsteps: 4738, episode steps: 49, reward: 32.06
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 226, total numsteps: 4759, episode steps: 21, reward: 7.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 227, total numsteps: 4788, episode steps: 29, reward: 24.79
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 228, total numsteps: 4805, episode steps: 17, reward: 14.97
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 229, total numsteps: 4820, episode steps: 15, reward: 6.05
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 230, total numsteps: 4832, episode steps: 12, reward: 9.07
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 9.24
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 231, total numsteps: 4851, episode steps: 19, reward: 14.46
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 232, total numsteps: 4878, episode steps: 27, reward: 17.47
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 233, total numsteps: 4903, episode steps: 25, reward: 8.44
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 234, total numsteps: 4924, episode steps: 21, reward: 16.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 235, total numsteps: 4957, episode steps: 33, reward: 31.11
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 236, total numsteps: 4979, episode steps: 22, reward: 18.6
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 237, total numsteps: 5002, episode steps: 23, reward: 12.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 238, total numsteps: 5042, episode steps: 40, reward: 31.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 239, total numsteps: 5058, episode steps: 16, reward: 17.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 240, total numsteps: 5069, episode steps: 11, reward: 7.75
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 47.67
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 241, total numsteps: 5081, episode steps: 12, reward: 8.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 242, total numsteps: 5106, episode steps: 25, reward: 10.67
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 243, total numsteps: 5122, episode steps: 16, reward: 13.75
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 244, total numsteps: 5148, episode steps: 26, reward: 31.41
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 245, total numsteps: 5159, episode steps: 11, reward: 9.49
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 246, total numsteps: 5191, episode steps: 32, reward: 13.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 247, total numsteps: 5231, episode steps: 40, reward: 44.11
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 248, total numsteps: 5254, episode steps: 23, reward: 10.67
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 249, total numsteps: 5284, episode steps: 30, reward: 10.79
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 250, total numsteps: 5307, episode steps: 23, reward: 16.79
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 56.89
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 251, total numsteps: 5322, episode steps: 15, reward: 12.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 252, total numsteps: 5342, episode steps: 20, reward: 17.09
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 253, total numsteps: 5358, episode steps: 16, reward: 13.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 254, total numsteps: 5368, episode steps: 10, reward: 8.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 255, total numsteps: 5378, episode steps: 10, reward: 7.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 256, total numsteps: 5457, episode steps: 79, reward: 147.11
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 257, total numsteps: 5466, episode steps: 9, reward: 7.15
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 258, total numsteps: 5494, episode steps: 28, reward: 11.91
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 259, total numsteps: 5513, episode steps: 19, reward: 11.65
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 260, total numsteps: 5536, episode steps: 23, reward: 19.7
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 193.67
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 261, total numsteps: 5561, episode steps: 25, reward: 20.97
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 262, total numsteps: 5587, episode steps: 26, reward: 11.85
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 263, total numsteps: 5597, episode steps: 10, reward: 8.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 264, total numsteps: 5627, episode steps: 30, reward: 36.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 265, total numsteps: 5652, episode steps: 25, reward: 15.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 266, total numsteps: 5674, episode steps: 22, reward: 19.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 267, total numsteps: 5692, episode steps: 18, reward: 17.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 268, total numsteps: 5714, episode steps: 22, reward: 24.34
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 269, total numsteps: 5756, episode steps: 42, reward: 72.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 270, total numsteps: 5782, episode steps: 26, reward: 20.97
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 181.75
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 271, total numsteps: 5799, episode steps: 17, reward: 17.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 272, total numsteps: 5815, episode steps: 16, reward: 10.15
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 273, total numsteps: 5832, episode steps: 17, reward: 17.89
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 274, total numsteps: 5846, episode steps: 14, reward: 8.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 275, total numsteps: 5862, episode steps: 16, reward: 9.85
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 276, total numsteps: 5897, episode steps: 35, reward: 23.85
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 277, total numsteps: 5913, episode steps: 16, reward: 10.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 278, total numsteps: 5944, episode steps: 31, reward: 37.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 279, total numsteps: 5956, episode steps: 12, reward: 8.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 280, total numsteps: 5990, episode steps: 34, reward: 12.66
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 48.91
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 281, total numsteps: 6006, episode steps: 16, reward: 9.65
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 282, total numsteps: 6018, episode steps: 12, reward: 8.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 283, total numsteps: 6047, episode steps: 29, reward: 27.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 284, total numsteps: 6060, episode steps: 13, reward: 11.93
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 285, total numsteps: 6070, episode steps: 10, reward: 6.96
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 286, total numsteps: 6086, episode steps: 16, reward: 9.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 287, total numsteps: 6105, episode steps: 19, reward: 18.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 288, total numsteps: 6115, episode steps: 10, reward: 7.6
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 289, total numsteps: 6138, episode steps: 23, reward: 6.83
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 290, total numsteps: 6184, episode steps: 46, reward: 43.77
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 190.09
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 291, total numsteps: 6238, episode steps: 54, reward: 61.64
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 292, total numsteps: 6259, episode steps: 21, reward: 15.3
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 293, total numsteps: 6271, episode steps: 12, reward: 6.65
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 294, total numsteps: 6313, episode steps: 42, reward: 35.3
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 295, total numsteps: 6327, episode steps: 14, reward: 11.3
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 296, total numsteps: 6360, episode steps: 33, reward: 42.25
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 297, total numsteps: 6392, episode steps: 32, reward: 15.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 298, total numsteps: 6404, episode steps: 12, reward: 9.77
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 299, total numsteps: 6437, episode steps: 33, reward: 24.15
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 300, total numsteps: 6454, episode steps: 17, reward: 18.01
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 142.47
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 301, total numsteps: 6479, episode steps: 25, reward: 18.09
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 302, total numsteps: 6492, episode steps: 13, reward: 10.86
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 303, total numsteps: 6503, episode steps: 11, reward: 9.96
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 304, total numsteps: 6519, episode steps: 16, reward: 8.96
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 305, total numsteps: 6541, episode steps: 22, reward: 6.36
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 306, total numsteps: 6566, episode steps: 25, reward: 16.0
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 307, total numsteps: 6588, episode steps: 22, reward: 19.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 308, total numsteps: 6597, episode steps: 9, reward: 5.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 309, total numsteps: 6612, episode steps: 15, reward: 8.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 310, total numsteps: 6629, episode steps: 17, reward: 10.86
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 164.09
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 311, total numsteps: 6660, episode steps: 31, reward: 25.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 312, total numsteps: 6681, episode steps: 21, reward: 16.72
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 313, total numsteps: 6705, episode steps: 24, reward: 23.87
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 314, total numsteps: 6731, episode steps: 26, reward: 26.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 315, total numsteps: 6748, episode steps: 17, reward: 14.25
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 316, total numsteps: 6812, episode steps: 64, reward: 65.49
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 317, total numsteps: 6827, episode steps: 15, reward: 11.53
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 318, total numsteps: 6840, episode steps: 13, reward: 8.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 319, total numsteps: 6861, episode steps: 21, reward: 17.51
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 320, total numsteps: 6877, episode steps: 16, reward: 10.43
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 186.77
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 321, total numsteps: 6902, episode steps: 25, reward: 3.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 322, total numsteps: 6922, episode steps: 20, reward: 9.44
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 323, total numsteps: 6935, episode steps: 13, reward: 5.73
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 324, total numsteps: 6953, episode steps: 18, reward: 16.58
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 325, total numsteps: 6973, episode steps: 20, reward: 13.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 326, total numsteps: 7049, episode steps: 76, reward: 133.99
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 327, total numsteps: 7066, episode steps: 17, reward: 9.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 328, total numsteps: 7081, episode steps: 15, reward: 12.26
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 329, total numsteps: 7102, episode steps: 21, reward: 23.39
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 330, total numsteps: 7121, episode steps: 19, reward: 14.61
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 47.72
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 331, total numsteps: 7156, episode steps: 35, reward: 12.99
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 332, total numsteps: 7166, episode steps: 10, reward: 6.73
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 333, total numsteps: 7178, episode steps: 12, reward: 8.1
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 334, total numsteps: 7191, episode steps: 13, reward: 10.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 335, total numsteps: 7213, episode steps: 22, reward: 22.33
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 336, total numsteps: 7230, episode steps: 17, reward: 13.96
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 337, total numsteps: 7255, episode steps: 25, reward: 21.35
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 338, total numsteps: 7267, episode steps: 12, reward: 9.0
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 339, total numsteps: 7288, episode steps: 21, reward: 16.18
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 340, total numsteps: 7310, episode steps: 22, reward: 21.69
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 80.81
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 341, total numsteps: 7321, episode steps: 11, reward: 6.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 342, total numsteps: 7338, episode steps: 17, reward: 15.58
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 343, total numsteps: 7351, episode steps: 13, reward: 11.86
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 344, total numsteps: 7368, episode steps: 17, reward: 11.69
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 345, total numsteps: 7390, episode steps: 22, reward: 13.36
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 346, total numsteps: 7417, episode steps: 27, reward: 29.82
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 347, total numsteps: 7435, episode steps: 18, reward: 13.11
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 348, total numsteps: 7459, episode steps: 24, reward: 27.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 349, total numsteps: 7493, episode steps: 34, reward: 38.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 350, total numsteps: 7509, episode steps: 16, reward: 15.67
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 215.4
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 351, total numsteps: 7531, episode steps: 22, reward: 18.97
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 352, total numsteps: 7553, episode steps: 22, reward: 11.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 353, total numsteps: 7575, episode steps: 22, reward: 23.92
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 354, total numsteps: 7600, episode steps: 25, reward: 26.59
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 355, total numsteps: 7632, episode steps: 32, reward: 18.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 356, total numsteps: 7646, episode steps: 14, reward: 10.0
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 357, total numsteps: 7667, episode steps: 21, reward: 17.52
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 358, total numsteps: 7687, episode steps: 20, reward: 22.11
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 359, total numsteps: 7698, episode steps: 11, reward: 8.43
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 360, total numsteps: 7722, episode steps: 24, reward: 19.82
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 186.64
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 361, total numsteps: 7753, episode steps: 31, reward: 27.96
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 362, total numsteps: 7784, episode steps: 31, reward: 14.25
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 363, total numsteps: 7804, episode steps: 20, reward: 13.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 364, total numsteps: 7818, episode steps: 14, reward: 13.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 365, total numsteps: 7848, episode steps: 30, reward: 25.59
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 366, total numsteps: 7862, episode steps: 14, reward: 11.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 367, total numsteps: 7880, episode steps: 18, reward: 13.58
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 368, total numsteps: 7889, episode steps: 9, reward: 6.72
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 369, total numsteps: 7932, episode steps: 43, reward: 57.53
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 370, total numsteps: 7947, episode steps: 15, reward: 9.12
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 188.09
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 371, total numsteps: 7983, episode steps: 36, reward: 42.66
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 372, total numsteps: 7996, episode steps: 13, reward: 9.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 373, total numsteps: 8012, episode steps: 16, reward: 11.04
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 374, total numsteps: 8031, episode steps: 19, reward: 20.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 375, total numsteps: 8040, episode steps: 9, reward: 6.87
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 376, total numsteps: 8058, episode steps: 18, reward: 12.01
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 377, total numsteps: 8075, episode steps: 17, reward: 13.72
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 378, total numsteps: 8102, episode steps: 27, reward: 32.64
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 379, total numsteps: 8119, episode steps: 17, reward: 19.6
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 380, total numsteps: 8132, episode steps: 13, reward: 9.77
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 179.25
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 381, total numsteps: 8147, episode steps: 15, reward: 10.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 382, total numsteps: 8167, episode steps: 20, reward: 16.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 383, total numsteps: 8180, episode steps: 13, reward: 10.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 384, total numsteps: 8195, episode steps: 15, reward: 13.63
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 385, total numsteps: 8210, episode steps: 15, reward: 7.69
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 386, total numsteps: 8242, episode steps: 32, reward: 42.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 387, total numsteps: 8310, episode steps: 68, reward: 112.52
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 388, total numsteps: 8341, episode steps: 31, reward: 39.2
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 389, total numsteps: 8368, episode steps: 27, reward: 12.41
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 390, total numsteps: 8382, episode steps: 14, reward: 11.6
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 176.84
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 391, total numsteps: 8413, episode steps: 31, reward: 28.95
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 392, total numsteps: 8430, episode steps: 17, reward: 14.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 393, total numsteps: 8444, episode steps: 14, reward: 12.89
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 394, total numsteps: 8477, episode steps: 33, reward: 17.91
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 395, total numsteps: 8509, episode steps: 32, reward: 32.75
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 396, total numsteps: 8522, episode steps: 13, reward: 9.73
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 397, total numsteps: 8532, episode steps: 10, reward: 6.92
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 398, total numsteps: 8565, episode steps: 33, reward: 18.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 399, total numsteps: 8576, episode steps: 11, reward: 8.91
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 400, total numsteps: 8590, episode steps: 14, reward: 11.46
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 174.39
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 401, total numsteps: 8614, episode steps: 24, reward: 21.7
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 402, total numsteps: 8644, episode steps: 30, reward: 7.58
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 403, total numsteps: 8668, episode steps: 24, reward: 25.1
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 404, total numsteps: 8728, episode steps: 60, reward: 84.89
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 405, total numsteps: 8745, episode steps: 17, reward: 17.37
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 406, total numsteps: 8769, episode steps: 24, reward: 22.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 407, total numsteps: 8786, episode steps: 17, reward: 16.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 408, total numsteps: 8815, episode steps: 29, reward: 17.42
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 409, total numsteps: 8827, episode steps: 12, reward: 8.78
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 410, total numsteps: 8840, episode steps: 13, reward: 8.83
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 172.91
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 411, total numsteps: 8861, episode steps: 21, reward: 23.85
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 412, total numsteps: 8873, episode steps: 12, reward: 6.82
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 413, total numsteps: 8895, episode steps: 22, reward: 17.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 414, total numsteps: 8954, episode steps: 59, reward: 51.2
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 415, total numsteps: 8965, episode steps: 11, reward: 8.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 416, total numsteps: 8981, episode steps: 16, reward: 14.78
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 417, total numsteps: 9013, episode steps: 32, reward: 10.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 418, total numsteps: 9032, episode steps: 19, reward: 10.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 419, total numsteps: 9044, episode steps: 12, reward: 6.99
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 420, total numsteps: 9060, episode steps: 16, reward: 10.36
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 187.63
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 421, total numsteps: 9076, episode steps: 16, reward: 9.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 422, total numsteps: 9092, episode steps: 16, reward: 11.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 423, total numsteps: 9118, episode steps: 26, reward: 10.18
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 424, total numsteps: 9149, episode steps: 31, reward: 41.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 425, total numsteps: 9168, episode steps: 19, reward: 15.4
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 426, total numsteps: 9178, episode steps: 10, reward: 7.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 427, total numsteps: 9203, episode steps: 25, reward: 25.33
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 428, total numsteps: 9227, episode steps: 24, reward: 16.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 429, total numsteps: 9246, episode steps: 19, reward: 9.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 430, total numsteps: 9271, episode steps: 25, reward: 10.75
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 190.22
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 431, total numsteps: 9290, episode steps: 19, reward: 12.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 432, total numsteps: 9305, episode steps: 15, reward: 9.57
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 433, total numsteps: 9320, episode steps: 15, reward: 11.46
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 434, total numsteps: 9334, episode steps: 14, reward: 11.8
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 435, total numsteps: 9379, episode steps: 45, reward: 42.87
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 436, total numsteps: 9393, episode steps: 14, reward: 11.21
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 437, total numsteps: 9413, episode steps: 20, reward: 9.9
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 438, total numsteps: 9425, episode steps: 12, reward: 8.26
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 439, total numsteps: 9441, episode steps: 16, reward: 7.72
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 440, total numsteps: 9456, episode steps: 15, reward: 15.3
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 196.82
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 441, total numsteps: 9469, episode steps: 13, reward: 10.85
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 442, total numsteps: 9501, episode steps: 32, reward: 18.67
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 443, total numsteps: 9528, episode steps: 27, reward: 19.2
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 444, total numsteps: 9555, episode steps: 27, reward: 22.33
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 445, total numsteps: 9591, episode steps: 36, reward: 31.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 446, total numsteps: 9604, episode steps: 13, reward: 10.46
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 447, total numsteps: 9617, episode steps: 13, reward: 9.86
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 448, total numsteps: 9648, episode steps: 31, reward: 13.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 449, total numsteps: 9675, episode steps: 27, reward: 16.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 450, total numsteps: 9705, episode steps: 30, reward: 34.02
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 184.9
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 451, total numsteps: 9726, episode steps: 21, reward: 19.33
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 452, total numsteps: 9739, episode steps: 13, reward: 9.25
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 453, total numsteps: 9777, episode steps: 38, reward: 39.47
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 454, total numsteps: 9794, episode steps: 17, reward: 10.66
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 455, total numsteps: 9821, episode steps: 27, reward: 13.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 456, total numsteps: 9832, episode steps: 11, reward: 7.26
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 457, total numsteps: 9844, episode steps: 12, reward: 9.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 458, total numsteps: 9880, episode steps: 36, reward: 47.63
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 459, total numsteps: 9893, episode steps: 13, reward: 10.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 460, total numsteps: 9952, episode steps: 59, reward: 57.91
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 192.68
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 461, total numsteps: 9972, episode steps: 20, reward: 15.49
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 462, total numsteps: 9986, episode steps: 14, reward: 11.2
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 463, total numsteps: 10000, episode steps: 14, reward: 11.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 464, total numsteps: 10112, episode steps: 112, reward: 288.73
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 465, total numsteps: 10198, episode steps: 86, reward: 176.64
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 466, total numsteps: 10323, episode steps: 125, reward: 256.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 467, total numsteps: 10403, episode steps: 80, reward: 153.42
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 468, total numsteps: 10576, episode steps: 173, reward: 315.2
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 469, total numsteps: 10692, episode steps: 116, reward: 295.67
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 470, total numsteps: 10830, episode steps: 138, reward: 362.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 300.35
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 471, total numsteps: 10983, episode steps: 153, reward: 359.35
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 472, total numsteps: 11109, episode steps: 126, reward: 312.78
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 473, total numsteps: 11226, episode steps: 117, reward: 279.35
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 474, total numsteps: 11333, episode steps: 107, reward: 231.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 475, total numsteps: 11426, episode steps: 93, reward: 181.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 476, total numsteps: 11558, episode steps: 132, reward: 330.09
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 477, total numsteps: 11670, episode steps: 112, reward: 274.12
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 478, total numsteps: 11768, episode steps: 98, reward: 186.36
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 479, total numsteps: 11886, episode steps: 118, reward: 295.59
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 480, total numsteps: 12009, episode steps: 123, reward: 320.67
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 338.0
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 481, total numsteps: 12105, episode steps: 96, reward: 219.44
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 482, total numsteps: 12199, episode steps: 94, reward: 215.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 483, total numsteps: 12294, episode steps: 95, reward: 218.51
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 484, total numsteps: 12388, episode steps: 94, reward: 217.0
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 485, total numsteps: 12484, episode steps: 96, reward: 219.82
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 486, total numsteps: 12577, episode steps: 93, reward: 212.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 487, total numsteps: 12693, episode steps: 116, reward: 198.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 488, total numsteps: 12788, episode steps: 95, reward: 211.92
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 489, total numsteps: 12880, episode steps: 92, reward: 209.52
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 490, total numsteps: 12973, episode steps: 93, reward: 207.1
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 194.19
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 491, total numsteps: 13153, episode steps: 180, reward: 258.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 492, total numsteps: 13226, episode steps: 73, reward: 68.44
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 493, total numsteps: 13340, episode steps: 114, reward: 226.53
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 494, total numsteps: 13484, episode steps: 144, reward: 264.73
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 495, total numsteps: 13711, episode steps: 227, reward: 356.62
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 496, total numsteps: 13924, episode steps: 213, reward: 234.24
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 497, total numsteps: 14208, episode steps: 284, reward: 535.41
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 498, total numsteps: 14378, episode steps: 170, reward: 340.69
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 499, total numsteps: 14473, episode steps: 95, reward: 216.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 500, total numsteps: 14602, episode steps: 129, reward: 254.2
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 307.07
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 501, total numsteps: 14772, episode steps: 170, reward: 379.97
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 502, total numsteps: 14968, episode steps: 196, reward: 453.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 503, total numsteps: 15135, episode steps: 167, reward: 346.77
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 504, total numsteps: 15307, episode steps: 172, reward: 418.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 505, total numsteps: 15480, episode steps: 173, reward: 412.92
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 506, total numsteps: 15637, episode steps: 157, reward: 364.84
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 507, total numsteps: 15811, episode steps: 174, reward: 377.58
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 508, total numsteps: 15884, episode steps: 73, reward: 133.05
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 509, total numsteps: 16046, episode steps: 162, reward: 403.05
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 510, total numsteps: 16197, episode steps: 151, reward: 326.39
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 408.06
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 511, total numsteps: 16405, episode steps: 208, reward: 472.7
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 512, total numsteps: 16541, episode steps: 136, reward: 273.15
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 513, total numsteps: 16714, episode steps: 173, reward: 385.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 514, total numsteps: 16858, episode steps: 144, reward: 329.46
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 515, total numsteps: 17027, episode steps: 169, reward: 410.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 516, total numsteps: 17204, episode steps: 177, reward: 422.12
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 517, total numsteps: 17373, episode steps: 169, reward: 401.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 518, total numsteps: 17520, episode steps: 147, reward: 315.65
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 519, total numsteps: 17673, episode steps: 153, reward: 341.02
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 520, total numsteps: 17818, episode steps: 145, reward: 330.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 341.2
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 521, total numsteps: 17962, episode steps: 144, reward: 340.77
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 522, total numsteps: 18121, episode steps: 159, reward: 347.76
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 523, total numsteps: 18272, episode steps: 151, reward: 344.03
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 524, total numsteps: 18416, episode steps: 144, reward: 327.3
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 525, total numsteps: 18567, episode steps: 151, reward: 357.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 526, total numsteps: 18701, episode steps: 134, reward: 309.41
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 527, total numsteps: 18843, episode steps: 142, reward: 349.76
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 528, total numsteps: 19001, episode steps: 158, reward: 357.78
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 529, total numsteps: 19164, episode steps: 163, reward: 361.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 530, total numsteps: 19320, episode steps: 156, reward: 387.79
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 201.01
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 531, total numsteps: 19372, episode steps: 52, reward: 27.33
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 532, total numsteps: 19411, episode steps: 39, reward: 14.3
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 533, total numsteps: 19527, episode steps: 116, reward: 158.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 534, total numsteps: 19574, episode steps: 47, reward: 20.95
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 535, total numsteps: 19750, episode steps: 176, reward: 371.71
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 536, total numsteps: 19918, episode steps: 168, reward: 361.35
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 537, total numsteps: 20112, episode steps: 194, reward: 392.76
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 538, total numsteps: 20317, episode steps: 205, reward: 389.87
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 539, total numsteps: 20513, episode steps: 196, reward: 387.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 540, total numsteps: 20725, episode steps: 212, reward: 411.52
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 460.36
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 541, total numsteps: 20907, episode steps: 182, reward: 352.72
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 542, total numsteps: 21123, episode steps: 216, reward: 433.86
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 543, total numsteps: 21377, episode steps: 254, reward: 478.26
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 544, total numsteps: 21697, episode steps: 320, reward: 534.04
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 545, total numsteps: 22086, episode steps: 389, reward: 650.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 546, total numsteps: 22679, episode steps: 593, reward: 933.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 547, total numsteps: 22719, episode steps: 40, reward: 11.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 548, total numsteps: 23107, episode steps: 388, reward: 426.99
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 549, total numsteps: 23146, episode steps: 39, reward: 11.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 550, total numsteps: 23189, episode steps: 43, reward: 12.78
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 322.5
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 551, total numsteps: 23229, episode steps: 40, reward: 12.34
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 552, total numsteps: 23272, episode steps: 43, reward: 17.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 553, total numsteps: 23737, episode steps: 465, reward: 379.99
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 554, total numsteps: 24293, episode steps: 556, reward: 753.95
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 555, total numsteps: 24684, episode steps: 391, reward: 565.87
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 556, total numsteps: 25103, episode steps: 419, reward: 622.26
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 557, total numsteps: 25389, episode steps: 286, reward: 503.59
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 558, total numsteps: 25840, episode steps: 451, reward: 680.0
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 559, total numsteps: 26176, episode steps: 336, reward: 519.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 560, total numsteps: 26276, episode steps: 100, reward: 92.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 596.59
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 561, total numsteps: 26643, episode steps: 367, reward: 524.25
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 562, total numsteps: 26938, episode steps: 295, reward: 525.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 563, total numsteps: 27293, episode steps: 355, reward: 538.06
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 564, total numsteps: 27691, episode steps: 398, reward: 604.37
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 565, total numsteps: 28456, episode steps: 765, reward: 1086.03
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 566, total numsteps: 29250, episode steps: 794, reward: 1095.84
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 567, total numsteps: 29625, episode steps: 375, reward: 510.58
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 568, total numsteps: 29935, episode steps: 310, reward: 473.01
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 569, total numsteps: 30935, episode steps: 1000, reward: 989.44
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 570, total numsteps: 30948, episode steps: 13, reward: 11.71
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 676.7
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 571, total numsteps: 31948, episode steps: 1000, reward: 1024.18
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 572, total numsteps: 32948, episode steps: 1000, reward: 1049.67
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 573, total numsteps: 33948, episode steps: 1000, reward: 1081.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 574, total numsteps: 34948, episode steps: 1000, reward: 1090.05
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 575, total numsteps: 35146, episode steps: 198, reward: 309.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 576, total numsteps: 35815, episode steps: 669, reward: 760.91
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 577, total numsteps: 36171, episode steps: 356, reward: 503.84
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 578, total numsteps: 36330, episode steps: 159, reward: 350.05
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 579, total numsteps: 37035, episode steps: 705, reward: 973.93
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 580, total numsteps: 38035, episode steps: 1000, reward: 1184.62
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 392.12
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 581, total numsteps: 38254, episode steps: 219, reward: 411.75
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 582, total numsteps: 38402, episode steps: 148, reward: 345.25
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Hopper-v2/4/sac_critic
+Episode: 583, total numsteps: 38563, episode steps: 161, reward: 420.27

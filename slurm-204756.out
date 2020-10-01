@@ -1,0 +1,1626 @@
+Episode: 1, total numsteps: 12, episode steps: 12, reward: -2.42
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 2, total numsteps: 26, episode steps: 14, reward: 0.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 3, total numsteps: 53, episode steps: 27, reward: 12.54
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 4, total numsteps: 65, episode steps: 12, reward: -0.76
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 5, total numsteps: 96, episode steps: 31, reward: 11.99
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 6, total numsteps: 118, episode steps: 22, reward: -1.42
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 7, total numsteps: 139, episode steps: 21, reward: 3.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 8, total numsteps: 151, episode steps: 12, reward: -5.71
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 9, total numsteps: 164, episode steps: 13, reward: -1.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 10, total numsteps: 183, episode steps: 19, reward: 1.32
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -4.4
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 11, total numsteps: 196, episode steps: 13, reward: 0.06
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 12, total numsteps: 221, episode steps: 25, reward: 1.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 13, total numsteps: 237, episode steps: 16, reward: 2.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 14, total numsteps: 257, episode steps: 20, reward: -1.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 15, total numsteps: 282, episode steps: 25, reward: 9.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 16, total numsteps: 303, episode steps: 21, reward: 8.37
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 17, total numsteps: 315, episode steps: 12, reward: -0.05
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 18, total numsteps: 328, episode steps: 13, reward: -6.75
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 19, total numsteps: 349, episode steps: 21, reward: 6.41
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 20, total numsteps: 377, episode steps: 28, reward: 0.72
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1.01
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 21, total numsteps: 392, episode steps: 15, reward: 3.21
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 22, total numsteps: 434, episode steps: 42, reward: 15.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 23, total numsteps: 452, episode steps: 18, reward: 5.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 24, total numsteps: 463, episode steps: 11, reward: -2.21
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 25, total numsteps: 492, episode steps: 29, reward: 0.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 26, total numsteps: 506, episode steps: 14, reward: 3.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 27, total numsteps: 524, episode steps: 18, reward: 5.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 28, total numsteps: 538, episode steps: 14, reward: -1.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 29, total numsteps: 562, episode steps: 24, reward: -2.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 30, total numsteps: 580, episode steps: 18, reward: -3.09
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -15.39
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 31, total numsteps: 596, episode steps: 16, reward: 2.75
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 32, total numsteps: 627, episode steps: 31, reward: 11.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 33, total numsteps: 639, episode steps: 12, reward: 1.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 34, total numsteps: 668, episode steps: 29, reward: 3.65
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 35, total numsteps: 695, episode steps: 27, reward: 4.11
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 36, total numsteps: 710, episode steps: 15, reward: -5.01
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 37, total numsteps: 725, episode steps: 15, reward: -1.58
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 38, total numsteps: 737, episode steps: 12, reward: -0.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 39, total numsteps: 751, episode steps: 14, reward: 3.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 40, total numsteps: 762, episode steps: 11, reward: -1.09
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -6.84
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 41, total numsteps: 781, episode steps: 19, reward: 3.37
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 42, total numsteps: 804, episode steps: 23, reward: -7.27
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 43, total numsteps: 869, episode steps: 65, reward: 6.24
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 44, total numsteps: 881, episode steps: 12, reward: -3.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 45, total numsteps: 898, episode steps: 17, reward: 1.37
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 46, total numsteps: 919, episode steps: 21, reward: 4.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 47, total numsteps: 937, episode steps: 18, reward: -2.7
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 48, total numsteps: 966, episode steps: 29, reward: 8.89
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 49, total numsteps: 974, episode steps: 8, reward: -3.43
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 50, total numsteps: 986, episode steps: 12, reward: -2.55
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -15.57
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 51, total numsteps: 996, episode steps: 10, reward: -2.54
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 52, total numsteps: 1013, episode steps: 17, reward: -2.3
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 53, total numsteps: 1034, episode steps: 21, reward: -2.66
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 54, total numsteps: 1056, episode steps: 22, reward: -5.79
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 55, total numsteps: 1076, episode steps: 20, reward: -4.42
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 56, total numsteps: 1093, episode steps: 17, reward: 5.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 57, total numsteps: 1119, episode steps: 26, reward: -0.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 58, total numsteps: 1148, episode steps: 29, reward: 0.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 59, total numsteps: 1166, episode steps: 18, reward: 2.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 60, total numsteps: 1189, episode steps: 23, reward: 4.45
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -12.66
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 61, total numsteps: 1206, episode steps: 17, reward: -1.36
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 62, total numsteps: 1221, episode steps: 15, reward: -2.11
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 63, total numsteps: 1232, episode steps: 11, reward: 0.83
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 64, total numsteps: 1244, episode steps: 12, reward: -0.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 65, total numsteps: 1266, episode steps: 22, reward: -4.25
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 66, total numsteps: 1277, episode steps: 11, reward: -3.91
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 67, total numsteps: 1296, episode steps: 19, reward: 0.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 68, total numsteps: 1315, episode steps: 19, reward: -3.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 69, total numsteps: 1341, episode steps: 26, reward: -2.09
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 70, total numsteps: 1365, episode steps: 24, reward: -1.59
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -14.51
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 71, total numsteps: 1396, episode steps: 31, reward: 2.9
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 72, total numsteps: 1417, episode steps: 21, reward: 4.7
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 73, total numsteps: 1435, episode steps: 18, reward: 6.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 74, total numsteps: 1459, episode steps: 24, reward: -5.51
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 75, total numsteps: 1471, episode steps: 12, reward: 1.37
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 76, total numsteps: 1501, episode steps: 30, reward: 0.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 77, total numsteps: 1514, episode steps: 13, reward: -0.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 78, total numsteps: 1533, episode steps: 19, reward: 4.82
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 79, total numsteps: 1542, episode steps: 9, reward: -3.03
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 80, total numsteps: 1559, episode steps: 17, reward: -2.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -12.6
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 81, total numsteps: 1573, episode steps: 14, reward: 1.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 82, total numsteps: 1582, episode steps: 9, reward: -4.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 83, total numsteps: 1610, episode steps: 28, reward: 4.69
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 84, total numsteps: 1631, episode steps: 21, reward: 0.84
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 85, total numsteps: 1649, episode steps: 18, reward: 4.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 86, total numsteps: 1680, episode steps: 31, reward: 2.75
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 87, total numsteps: 1696, episode steps: 16, reward: 0.41
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 88, total numsteps: 1718, episode steps: 22, reward: 2.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 89, total numsteps: 1741, episode steps: 23, reward: -3.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 90, total numsteps: 1753, episode steps: 12, reward: -0.36
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -3.57
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 91, total numsteps: 1790, episode steps: 37, reward: 1.93
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 92, total numsteps: 1811, episode steps: 21, reward: 2.51
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 93, total numsteps: 1843, episode steps: 32, reward: 5.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 94, total numsteps: 1874, episode steps: 31, reward: 7.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 95, total numsteps: 1889, episode steps: 15, reward: 1.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 96, total numsteps: 1907, episode steps: 18, reward: -0.18
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 97, total numsteps: 1929, episode steps: 22, reward: 2.35
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 98, total numsteps: 1945, episode steps: 16, reward: 1.78
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 99, total numsteps: 1970, episode steps: 25, reward: 6.57
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 100, total numsteps: 1997, episode steps: 27, reward: 4.98
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -5.35
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 101, total numsteps: 2010, episode steps: 13, reward: -2.47
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 102, total numsteps: 2028, episode steps: 18, reward: -6.53
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 103, total numsteps: 2043, episode steps: 15, reward: 2.77
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 104, total numsteps: 2054, episode steps: 11, reward: -1.12
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 105, total numsteps: 2071, episode steps: 17, reward: 1.87
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 106, total numsteps: 2088, episode steps: 17, reward: 2.71
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 107, total numsteps: 2099, episode steps: 11, reward: -0.41
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 108, total numsteps: 2122, episode steps: 23, reward: 5.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 109, total numsteps: 2159, episode steps: 37, reward: -1.73
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 110, total numsteps: 2180, episode steps: 21, reward: -0.26
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -19.59
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 111, total numsteps: 2203, episode steps: 23, reward: -5.4
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 112, total numsteps: 2214, episode steps: 11, reward: -4.25
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 113, total numsteps: 2247, episode steps: 33, reward: 2.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 114, total numsteps: 2280, episode steps: 33, reward: 5.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 115, total numsteps: 2294, episode steps: 14, reward: 4.57
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 116, total numsteps: 2306, episode steps: 12, reward: 1.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 117, total numsteps: 2340, episode steps: 34, reward: 2.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 118, total numsteps: 2352, episode steps: 12, reward: -1.77
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 119, total numsteps: 2369, episode steps: 17, reward: -0.1
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 120, total numsteps: 2387, episode steps: 18, reward: 5.52
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -16.12
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 121, total numsteps: 2407, episode steps: 20, reward: 8.44
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 122, total numsteps: 2437, episode steps: 30, reward: 8.95
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 123, total numsteps: 2451, episode steps: 14, reward: 2.73
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 124, total numsteps: 2465, episode steps: 14, reward: -0.15
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 125, total numsteps: 2492, episode steps: 27, reward: -0.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 126, total numsteps: 2522, episode steps: 30, reward: 3.92
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 127, total numsteps: 2538, episode steps: 16, reward: 3.0
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 128, total numsteps: 2555, episode steps: 17, reward: 1.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 129, total numsteps: 2577, episode steps: 22, reward: 0.25
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 130, total numsteps: 2597, episode steps: 20, reward: -5.56
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -16.03
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 131, total numsteps: 2622, episode steps: 25, reward: 9.52
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 132, total numsteps: 2644, episode steps: 22, reward: -8.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 133, total numsteps: 2654, episode steps: 10, reward: 1.47
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 134, total numsteps: 2668, episode steps: 14, reward: -2.86
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 135, total numsteps: 2695, episode steps: 27, reward: 0.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 136, total numsteps: 2722, episode steps: 27, reward: 4.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 137, total numsteps: 2734, episode steps: 12, reward: -1.95
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 138, total numsteps: 2767, episode steps: 33, reward: -0.99
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 139, total numsteps: 2795, episode steps: 28, reward: 0.36
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 140, total numsteps: 2815, episode steps: 20, reward: 10.84
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 90.9
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 141, total numsteps: 2836, episode steps: 21, reward: 4.7
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 142, total numsteps: 2855, episode steps: 19, reward: 9.06
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 143, total numsteps: 2902, episode steps: 47, reward: 19.62
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 144, total numsteps: 2929, episode steps: 27, reward: -5.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 145, total numsteps: 2966, episode steps: 37, reward: 0.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 146, total numsteps: 2984, episode steps: 18, reward: 3.04
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 147, total numsteps: 3001, episode steps: 17, reward: -4.43
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 148, total numsteps: 3015, episode steps: 14, reward: 1.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 149, total numsteps: 3049, episode steps: 34, reward: 7.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 150, total numsteps: 3076, episode steps: 27, reward: 5.85
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 193.64
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 151, total numsteps: 3105, episode steps: 29, reward: 9.6
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 152, total numsteps: 3139, episode steps: 34, reward: 8.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 153, total numsteps: 3163, episode steps: 24, reward: 6.12
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 154, total numsteps: 3182, episode steps: 19, reward: 0.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 155, total numsteps: 3211, episode steps: 29, reward: 0.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 156, total numsteps: 3226, episode steps: 15, reward: 5.39
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 157, total numsteps: 3242, episode steps: 16, reward: -2.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 158, total numsteps: 3278, episode steps: 36, reward: 4.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 159, total numsteps: 3291, episode steps: 13, reward: 0.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 160, total numsteps: 3305, episode steps: 14, reward: 1.07
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -15.0
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 161, total numsteps: 3326, episode steps: 21, reward: -4.34
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 162, total numsteps: 3340, episode steps: 14, reward: -0.73
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 163, total numsteps: 3353, episode steps: 13, reward: 3.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 164, total numsteps: 3391, episode steps: 38, reward: 17.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 165, total numsteps: 3415, episode steps: 24, reward: -3.67
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 166, total numsteps: 3427, episode steps: 12, reward: 0.65
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 167, total numsteps: 3437, episode steps: 10, reward: -2.21
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 168, total numsteps: 3466, episode steps: 29, reward: 1.34
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 169, total numsteps: 3483, episode steps: 17, reward: 3.44
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 170, total numsteps: 3533, episode steps: 50, reward: 22.88
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -17.37
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 171, total numsteps: 3570, episode steps: 37, reward: 14.21
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 172, total numsteps: 3590, episode steps: 20, reward: 5.97
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 173, total numsteps: 3610, episode steps: 20, reward: -8.67
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 174, total numsteps: 3620, episode steps: 10, reward: -4.93
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 175, total numsteps: 3643, episode steps: 23, reward: 1.06
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 176, total numsteps: 3680, episode steps: 37, reward: 18.9
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 177, total numsteps: 3710, episode steps: 30, reward: 3.46
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 178, total numsteps: 3735, episode steps: 25, reward: -0.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 179, total numsteps: 3757, episode steps: 22, reward: -4.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 180, total numsteps: 3772, episode steps: 15, reward: 3.46
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -17.48
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 181, total numsteps: 3789, episode steps: 17, reward: -4.04
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 182, total numsteps: 3803, episode steps: 14, reward: 2.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 183, total numsteps: 3813, episode steps: 10, reward: -1.3
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 184, total numsteps: 3825, episode steps: 12, reward: -3.62
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 185, total numsteps: 3839, episode steps: 14, reward: -2.06
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 186, total numsteps: 3855, episode steps: 16, reward: 0.66
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 187, total numsteps: 3864, episode steps: 9, reward: -4.02
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 188, total numsteps: 3909, episode steps: 45, reward: 15.0
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 189, total numsteps: 3937, episode steps: 28, reward: 5.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 190, total numsteps: 3952, episode steps: 15, reward: 0.77
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -18.25
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 191, total numsteps: 3966, episode steps: 14, reward: 3.03
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 192, total numsteps: 3982, episode steps: 16, reward: 1.36
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 193, total numsteps: 4000, episode steps: 18, reward: 5.0
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 194, total numsteps: 4013, episode steps: 13, reward: 3.39
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 195, total numsteps: 4035, episode steps: 22, reward: 6.27
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 196, total numsteps: 4051, episode steps: 16, reward: -5.3
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 197, total numsteps: 4072, episode steps: 21, reward: -3.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 198, total numsteps: 4102, episode steps: 30, reward: 8.58
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 199, total numsteps: 4117, episode steps: 15, reward: 3.01
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 200, total numsteps: 4134, episode steps: 17, reward: 4.27
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -24.74
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 201, total numsteps: 4151, episode steps: 17, reward: 2.4
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 202, total numsteps: 4172, episode steps: 21, reward: 8.96
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 203, total numsteps: 4199, episode steps: 27, reward: -3.18
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 204, total numsteps: 4214, episode steps: 15, reward: 2.1
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 205, total numsteps: 4231, episode steps: 17, reward: -2.03
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 206, total numsteps: 4255, episode steps: 24, reward: 10.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 207, total numsteps: 4271, episode steps: 16, reward: -0.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 208, total numsteps: 4308, episode steps: 37, reward: 15.26
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 209, total numsteps: 4353, episode steps: 45, reward: 18.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 210, total numsteps: 4376, episode steps: 23, reward: 7.65
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -27.31
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 211, total numsteps: 4422, episode steps: 46, reward: 29.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 212, total numsteps: 4437, episode steps: 15, reward: 1.77
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 213, total numsteps: 4458, episode steps: 21, reward: 0.93
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 214, total numsteps: 4472, episode steps: 14, reward: -0.12
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 215, total numsteps: 4490, episode steps: 18, reward: 0.57
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 216, total numsteps: 4507, episode steps: 17, reward: 4.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 217, total numsteps: 4528, episode steps: 21, reward: -3.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 218, total numsteps: 4541, episode steps: 13, reward: -1.51
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 219, total numsteps: 4559, episode steps: 18, reward: -0.1
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 220, total numsteps: 4584, episode steps: 25, reward: 8.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -27.67
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 221, total numsteps: 4601, episode steps: 17, reward: -4.0
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 222, total numsteps: 4623, episode steps: 22, reward: 4.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 223, total numsteps: 4639, episode steps: 16, reward: 3.62
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 224, total numsteps: 4658, episode steps: 19, reward: 6.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 225, total numsteps: 4670, episode steps: 12, reward: -1.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 226, total numsteps: 4694, episode steps: 24, reward: 5.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 227, total numsteps: 4716, episode steps: 22, reward: 5.51
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 228, total numsteps: 4736, episode steps: 20, reward: 6.42
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 229, total numsteps: 4755, episode steps: 19, reward: -1.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 230, total numsteps: 4774, episode steps: 19, reward: 5.83
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -36.35
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 231, total numsteps: 4807, episode steps: 33, reward: 2.4
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 232, total numsteps: 4821, episode steps: 14, reward: 2.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 233, total numsteps: 4846, episode steps: 25, reward: 1.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 234, total numsteps: 4868, episode steps: 22, reward: 3.4
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 235, total numsteps: 4902, episode steps: 34, reward: 6.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 236, total numsteps: 4923, episode steps: 21, reward: 4.53
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 237, total numsteps: 4932, episode steps: 9, reward: -0.97
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 238, total numsteps: 4945, episode steps: 13, reward: -1.24
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 239, total numsteps: 4960, episode steps: 15, reward: 4.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 240, total numsteps: 4984, episode steps: 24, reward: -1.55
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -40.5
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 241, total numsteps: 4997, episode steps: 13, reward: -1.71
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 242, total numsteps: 5032, episode steps: 35, reward: 5.52
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 243, total numsteps: 5053, episode steps: 21, reward: -4.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 244, total numsteps: 5069, episode steps: 16, reward: 3.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 245, total numsteps: 5095, episode steps: 26, reward: -4.11
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 246, total numsteps: 5107, episode steps: 12, reward: 0.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 247, total numsteps: 5159, episode steps: 52, reward: 23.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 248, total numsteps: 5183, episode steps: 24, reward: 5.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 249, total numsteps: 5197, episode steps: 14, reward: 1.8
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 250, total numsteps: 5227, episode steps: 30, reward: 5.95
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -38.43
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 251, total numsteps: 5245, episode steps: 18, reward: 1.09
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 252, total numsteps: 5257, episode steps: 12, reward: -2.27
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 253, total numsteps: 5275, episode steps: 18, reward: -4.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 254, total numsteps: 5286, episode steps: 11, reward: -0.7
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 255, total numsteps: 5304, episode steps: 18, reward: 7.77
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 256, total numsteps: 5327, episode steps: 23, reward: 2.51
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 257, total numsteps: 5352, episode steps: 25, reward: 8.78
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 258, total numsteps: 5364, episode steps: 12, reward: 0.43
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 259, total numsteps: 5399, episode steps: 35, reward: 27.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 260, total numsteps: 5420, episode steps: 21, reward: 2.9
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -35.94
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 261, total numsteps: 5438, episode steps: 18, reward: -0.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 262, total numsteps: 5475, episode steps: 37, reward: 4.53
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 263, total numsteps: 5486, episode steps: 11, reward: 1.26
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 264, total numsteps: 5495, episode steps: 9, reward: -3.95
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 265, total numsteps: 5512, episode steps: 17, reward: -2.02
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 266, total numsteps: 5529, episode steps: 17, reward: -2.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 267, total numsteps: 5541, episode steps: 12, reward: 1.62
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 268, total numsteps: 5576, episode steps: 35, reward: 9.03
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 269, total numsteps: 5584, episode steps: 8, reward: -2.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 270, total numsteps: 5604, episode steps: 20, reward: -6.28
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -37.23
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 271, total numsteps: 5617, episode steps: 13, reward: -4.72
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 272, total numsteps: 5632, episode steps: 15, reward: -2.43
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 273, total numsteps: 5652, episode steps: 20, reward: -7.75
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 274, total numsteps: 5676, episode steps: 24, reward: 10.96
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 275, total numsteps: 5694, episode steps: 18, reward: -0.79
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 276, total numsteps: 5716, episode steps: 22, reward: 2.95
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 277, total numsteps: 5727, episode steps: 11, reward: -2.27
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 278, total numsteps: 5752, episode steps: 25, reward: 3.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 279, total numsteps: 5762, episode steps: 10, reward: -4.03
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 280, total numsteps: 5801, episode steps: 39, reward: 8.24
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -36.21
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 281, total numsteps: 5822, episode steps: 21, reward: -6.09
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 282, total numsteps: 5840, episode steps: 18, reward: -0.3
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 283, total numsteps: 5855, episode steps: 15, reward: 0.57
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 284, total numsteps: 5869, episode steps: 14, reward: 2.34
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 285, total numsteps: 5882, episode steps: 13, reward: -6.78
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 286, total numsteps: 5904, episode steps: 22, reward: -0.25
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 287, total numsteps: 5923, episode steps: 19, reward: -0.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 288, total numsteps: 5935, episode steps: 12, reward: 0.82
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 289, total numsteps: 5971, episode steps: 36, reward: 23.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 290, total numsteps: 5985, episode steps: 14, reward: -0.83
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -38.2
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 291, total numsteps: 5996, episode steps: 11, reward: -2.97
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 292, total numsteps: 6023, episode steps: 27, reward: -0.35
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 293, total numsteps: 6037, episode steps: 14, reward: 3.05
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 294, total numsteps: 6061, episode steps: 24, reward: 6.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 295, total numsteps: 6073, episode steps: 12, reward: -3.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 296, total numsteps: 6102, episode steps: 29, reward: -0.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 297, total numsteps: 6112, episode steps: 10, reward: -2.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 298, total numsteps: 6123, episode steps: 11, reward: -1.27
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 299, total numsteps: 6144, episode steps: 21, reward: -8.43
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 300, total numsteps: 6173, episode steps: 29, reward: 7.52
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -35.56
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 301, total numsteps: 6206, episode steps: 33, reward: 17.6
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 302, total numsteps: 6221, episode steps: 15, reward: -6.1
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 303, total numsteps: 6245, episode steps: 24, reward: 1.63
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 304, total numsteps: 6265, episode steps: 20, reward: 7.18
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 305, total numsteps: 6290, episode steps: 25, reward: 11.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 306, total numsteps: 6308, episode steps: 18, reward: -0.92
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 307, total numsteps: 6324, episode steps: 16, reward: -5.73
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 308, total numsteps: 6346, episode steps: 22, reward: -10.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 309, total numsteps: 6379, episode steps: 33, reward: 3.09
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 310, total numsteps: 6402, episode steps: 23, reward: -1.92
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -38.51
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 311, total numsteps: 6419, episode steps: 17, reward: -3.34
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 312, total numsteps: 6441, episode steps: 22, reward: 7.44
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 313, total numsteps: 6460, episode steps: 19, reward: 5.39
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 314, total numsteps: 6501, episode steps: 41, reward: 21.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 315, total numsteps: 6516, episode steps: 15, reward: -1.39
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 316, total numsteps: 6532, episode steps: 16, reward: 6.53
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 317, total numsteps: 6543, episode steps: 11, reward: 0.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 318, total numsteps: 6558, episode steps: 15, reward: 4.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 319, total numsteps: 6581, episode steps: 23, reward: 5.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 320, total numsteps: 6601, episode steps: 20, reward: 5.44
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -27.47
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 321, total numsteps: 6621, episode steps: 20, reward: 2.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 322, total numsteps: 6637, episode steps: 16, reward: -3.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 323, total numsteps: 6665, episode steps: 28, reward: 8.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 324, total numsteps: 6688, episode steps: 23, reward: -4.18
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 325, total numsteps: 6704, episode steps: 16, reward: 2.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 326, total numsteps: 6742, episode steps: 38, reward: 14.97
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 327, total numsteps: 6772, episode steps: 30, reward: 8.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 328, total numsteps: 6790, episode steps: 18, reward: -2.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 329, total numsteps: 6820, episode steps: 30, reward: -3.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 330, total numsteps: 6845, episode steps: 25, reward: -2.67
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 108.45
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 331, total numsteps: 6862, episode steps: 17, reward: 2.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 332, total numsteps: 6900, episode steps: 38, reward: 14.72
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 333, total numsteps: 6915, episode steps: 15, reward: 1.03
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 334, total numsteps: 6926, episode steps: 11, reward: -0.02
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 335, total numsteps: 6954, episode steps: 28, reward: 1.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 336, total numsteps: 6972, episode steps: 18, reward: 3.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 337, total numsteps: 6990, episode steps: 18, reward: -7.02
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 338, total numsteps: 7002, episode steps: 12, reward: -1.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 339, total numsteps: 7042, episode steps: 40, reward: 11.02
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 340, total numsteps: 7055, episode steps: 13, reward: -0.21
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 122.55
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 341, total numsteps: 7076, episode steps: 21, reward: -2.18
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 342, total numsteps: 7107, episode steps: 31, reward: 6.44
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 343, total numsteps: 7117, episode steps: 10, reward: -0.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 344, total numsteps: 7131, episode steps: 14, reward: -0.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 345, total numsteps: 7153, episode steps: 22, reward: 3.97
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 346, total numsteps: 7178, episode steps: 25, reward: -2.47
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 347, total numsteps: 7196, episode steps: 18, reward: -1.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 348, total numsteps: 7224, episode steps: 28, reward: 10.77
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 349, total numsteps: 7234, episode steps: 10, reward: -0.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 350, total numsteps: 7254, episode steps: 20, reward: 1.4
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 99.54
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 351, total numsteps: 7269, episode steps: 15, reward: -2.93
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 352, total numsteps: 7288, episode steps: 19, reward: 5.39
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 353, total numsteps: 7299, episode steps: 11, reward: -0.66
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 354, total numsteps: 7321, episode steps: 22, reward: 1.3
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 355, total numsteps: 7342, episode steps: 21, reward: -1.67
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 356, total numsteps: 7373, episode steps: 31, reward: 5.11
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 357, total numsteps: 7407, episode steps: 34, reward: 9.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 358, total numsteps: 7431, episode steps: 24, reward: 11.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 359, total numsteps: 7457, episode steps: 26, reward: 4.95
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 360, total numsteps: 7482, episode steps: 25, reward: 2.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 217.41
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 361, total numsteps: 7500, episode steps: 18, reward: 1.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 362, total numsteps: 7513, episode steps: 13, reward: 1.54
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 363, total numsteps: 7536, episode steps: 23, reward: -3.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 364, total numsteps: 7550, episode steps: 14, reward: -5.53
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 365, total numsteps: 7560, episode steps: 10, reward: 0.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 366, total numsteps: 7579, episode steps: 19, reward: 5.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 367, total numsteps: 7591, episode steps: 12, reward: 0.46
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 368, total numsteps: 7610, episode steps: 19, reward: 1.93
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 369, total numsteps: 7631, episode steps: 21, reward: 0.64
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 370, total numsteps: 7651, episode steps: 20, reward: 3.77
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 95.11
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 371, total numsteps: 7663, episode steps: 12, reward: -1.99
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 372, total numsteps: 7698, episode steps: 35, reward: 12.71
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 373, total numsteps: 7731, episode steps: 33, reward: -2.04
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 374, total numsteps: 7744, episode steps: 13, reward: -5.63
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 375, total numsteps: 7755, episode steps: 11, reward: -2.01
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 376, total numsteps: 7768, episode steps: 13, reward: 4.06
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 377, total numsteps: 7780, episode steps: 12, reward: -1.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 378, total numsteps: 7801, episode steps: 21, reward: 1.75
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 379, total numsteps: 7811, episode steps: 10, reward: -1.84
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 380, total numsteps: 7826, episode steps: 15, reward: 1.67
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 121.06
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 381, total numsteps: 7840, episode steps: 14, reward: 2.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 382, total numsteps: 7861, episode steps: 21, reward: -0.53
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 383, total numsteps: 7882, episode steps: 21, reward: 2.42
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 384, total numsteps: 7899, episode steps: 17, reward: -5.09
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 385, total numsteps: 7911, episode steps: 12, reward: 1.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 386, total numsteps: 7922, episode steps: 11, reward: 0.66
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 387, total numsteps: 7930, episode steps: 8, reward: -4.11
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 388, total numsteps: 7945, episode steps: 15, reward: 0.24
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 389, total numsteps: 7960, episode steps: 15, reward: 3.83
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 390, total numsteps: 7980, episode steps: 20, reward: 3.44
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 188.46
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 391, total numsteps: 7999, episode steps: 19, reward: -0.7
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 392, total numsteps: 8017, episode steps: 18, reward: 5.49
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 393, total numsteps: 8033, episode steps: 16, reward: 0.9
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 394, total numsteps: 8046, episode steps: 13, reward: -2.06
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 395, total numsteps: 8094, episode steps: 48, reward: 14.85
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 396, total numsteps: 8126, episode steps: 32, reward: -2.87
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 397, total numsteps: 8148, episode steps: 22, reward: 0.36
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 398, total numsteps: 8187, episode steps: 39, reward: 7.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 399, total numsteps: 8215, episode steps: 28, reward: 4.76
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 400, total numsteps: 8244, episode steps: 29, reward: 2.66
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 96.58
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 401, total numsteps: 8272, episode steps: 28, reward: 3.58
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 402, total numsteps: 8289, episode steps: 17, reward: 7.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 403, total numsteps: 8322, episode steps: 33, reward: 7.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 404, total numsteps: 8336, episode steps: 14, reward: 2.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 405, total numsteps: 8367, episode steps: 31, reward: 3.65
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 406, total numsteps: 8387, episode steps: 20, reward: 4.7
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 407, total numsteps: 8409, episode steps: 22, reward: -2.72
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 408, total numsteps: 8438, episode steps: 29, reward: 11.59
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 409, total numsteps: 8452, episode steps: 14, reward: 2.47
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 410, total numsteps: 8485, episode steps: 33, reward: 8.76
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 123.82
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 411, total numsteps: 8494, episode steps: 9, reward: -3.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 412, total numsteps: 8514, episode steps: 20, reward: -1.54
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 413, total numsteps: 8527, episode steps: 13, reward: 2.79
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 414, total numsteps: 8544, episode steps: 17, reward: -8.54
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 415, total numsteps: 8562, episode steps: 18, reward: 9.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 416, total numsteps: 8575, episode steps: 13, reward: -1.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 417, total numsteps: 8590, episode steps: 15, reward: -4.82
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 418, total numsteps: 8603, episode steps: 13, reward: -5.02
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 419, total numsteps: 8634, episode steps: 31, reward: 1.33
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 420, total numsteps: 8663, episode steps: 29, reward: -0.92
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 113.75
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 421, total numsteps: 8690, episode steps: 27, reward: -4.84
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 422, total numsteps: 8716, episode steps: 26, reward: 1.3
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 423, total numsteps: 8734, episode steps: 18, reward: -9.67
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 424, total numsteps: 8751, episode steps: 17, reward: 5.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 425, total numsteps: 8762, episode steps: 11, reward: 1.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 426, total numsteps: 8786, episode steps: 24, reward: 2.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 427, total numsteps: 8815, episode steps: 29, reward: 6.6
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 428, total numsteps: 8829, episode steps: 14, reward: -7.93
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 429, total numsteps: 8843, episode steps: 14, reward: -0.06
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 430, total numsteps: 8870, episode steps: 27, reward: -4.43
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 81.38
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 431, total numsteps: 8895, episode steps: 25, reward: 5.05
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 432, total numsteps: 8907, episode steps: 12, reward: 0.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 433, total numsteps: 8928, episode steps: 21, reward: 0.71
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 434, total numsteps: 8942, episode steps: 14, reward: -9.83
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 435, total numsteps: 8982, episode steps: 40, reward: 13.0
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 436, total numsteps: 9012, episode steps: 30, reward: 5.42
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 437, total numsteps: 9027, episode steps: 15, reward: 2.9
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 438, total numsteps: 9040, episode steps: 13, reward: -0.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 439, total numsteps: 9106, episode steps: 66, reward: 13.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 440, total numsteps: 9122, episode steps: 16, reward: 3.56
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 78.52
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 441, total numsteps: 9142, episode steps: 20, reward: 1.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 442, total numsteps: 9159, episode steps: 17, reward: -1.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 443, total numsteps: 9177, episode steps: 18, reward: -4.4
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 444, total numsteps: 9185, episode steps: 8, reward: -2.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 445, total numsteps: 9212, episode steps: 27, reward: 3.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 446, total numsteps: 9227, episode steps: 15, reward: -0.82
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 447, total numsteps: 9255, episode steps: 28, reward: 1.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 448, total numsteps: 9270, episode steps: 15, reward: -1.84
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 449, total numsteps: 9300, episode steps: 30, reward: 4.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 450, total numsteps: 9340, episode steps: 40, reward: -1.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 129.31
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 451, total numsteps: 9367, episode steps: 27, reward: 1.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 452, total numsteps: 9381, episode steps: 14, reward: -0.49
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 453, total numsteps: 9403, episode steps: 22, reward: -7.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 454, total numsteps: 9418, episode steps: 15, reward: -2.97
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 455, total numsteps: 9438, episode steps: 20, reward: -6.77
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 456, total numsteps: 9453, episode steps: 15, reward: -0.03
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 457, total numsteps: 9471, episode steps: 18, reward: 0.33
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 458, total numsteps: 9505, episode steps: 34, reward: -1.62
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 459, total numsteps: 9541, episode steps: 36, reward: -1.33
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 460, total numsteps: 9559, episode steps: 18, reward: -9.74
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 203.78
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 461, total numsteps: 9572, episode steps: 13, reward: -1.8
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 462, total numsteps: 9579, episode steps: 7, reward: -2.89
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 463, total numsteps: 9594, episode steps: 15, reward: -9.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 464, total numsteps: 9628, episode steps: 34, reward: 4.91
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 465, total numsteps: 9660, episode steps: 32, reward: 13.75
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 466, total numsteps: 9700, episode steps: 40, reward: 18.39
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 467, total numsteps: 9722, episode steps: 22, reward: 8.87
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 468, total numsteps: 9754, episode steps: 32, reward: 13.04
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 469, total numsteps: 9775, episode steps: 21, reward: -4.11
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 470, total numsteps: 9784, episode steps: 9, reward: -2.63
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 101.88
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 471, total numsteps: 9801, episode steps: 17, reward: -8.42
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 472, total numsteps: 9811, episode steps: 10, reward: -5.64
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 473, total numsteps: 9831, episode steps: 20, reward: 5.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 474, total numsteps: 9848, episode steps: 17, reward: 2.37
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 475, total numsteps: 9859, episode steps: 11, reward: -1.27
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 476, total numsteps: 9909, episode steps: 50, reward: 11.89
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 477, total numsteps: 9925, episode steps: 16, reward: -0.11
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 478, total numsteps: 9942, episode steps: 17, reward: 1.92
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 479, total numsteps: 9959, episode steps: 17, reward: 4.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 480, total numsteps: 9973, episode steps: 14, reward: 2.71
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 113.1
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 481, total numsteps: 9995, episode steps: 22, reward: -3.85
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 482, total numsteps: 10783, episode steps: 788, reward: 810.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 483, total numsteps: 11043, episode steps: 260, reward: 375.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 484, total numsteps: 11228, episode steps: 185, reward: 81.93
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 485, total numsteps: 11465, episode steps: 237, reward: 100.65
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 486, total numsteps: 11588, episode steps: 123, reward: 38.78
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 487, total numsteps: 11787, episode steps: 199, reward: 65.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 488, total numsteps: 11920, episode steps: 133, reward: 186.7
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 489, total numsteps: 12116, episode steps: 196, reward: 394.37
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 490, total numsteps: 12204, episode steps: 88, reward: 45.71
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 18.31
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 491, total numsteps: 12348, episode steps: 144, reward: 11.21
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 492, total numsteps: 12459, episode steps: 111, reward: 3.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 493, total numsteps: 12552, episode steps: 93, reward: -34.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 494, total numsteps: 12686, episode steps: 134, reward: 9.09
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 495, total numsteps: 12853, episode steps: 167, reward: -8.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 496, total numsteps: 12898, episode steps: 45, reward: -4.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 497, total numsteps: 12991, episode steps: 93, reward: -33.39
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 498, total numsteps: 13031, episode steps: 40, reward: -0.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 499, total numsteps: 13125, episode steps: 94, reward: -33.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 500, total numsteps: 13157, episode steps: 32, reward: -12.72
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -8.22
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 501, total numsteps: 13303, episode steps: 146, reward: 0.4
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 502, total numsteps: 13360, episode steps: 57, reward: -11.49
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 503, total numsteps: 13425, episode steps: 65, reward: -9.58
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 504, total numsteps: 13491, episode steps: 66, reward: -6.21
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 505, total numsteps: 13570, episode steps: 79, reward: -5.73
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 506, total numsteps: 13621, episode steps: 51, reward: 3.39
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 507, total numsteps: 13722, episode steps: 101, reward: -50.96
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 508, total numsteps: 13807, episode steps: 85, reward: -16.66
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 509, total numsteps: 13864, episode steps: 57, reward: -10.67
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 510, total numsteps: 13969, episode steps: 105, reward: -49.87
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -17.07
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 511, total numsteps: 14027, episode steps: 58, reward: -1.33
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 512, total numsteps: 14154, episode steps: 127, reward: -12.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 513, total numsteps: 14206, episode steps: 52, reward: 12.43
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 514, total numsteps: 14319, episode steps: 113, reward: -24.63
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 515, total numsteps: 14615, episode steps: 296, reward: 16.36
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 516, total numsteps: 14733, episode steps: 118, reward: -27.52
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 517, total numsteps: 15606, episode steps: 873, reward: 353.62
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 518, total numsteps: 15700, episode steps: 94, reward: -8.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 519, total numsteps: 16700, episode steps: 1000, reward: 913.02
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 520, total numsteps: 16838, episode steps: 138, reward: 228.78
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 331.61
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 521, total numsteps: 17023, episode steps: 185, reward: 242.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 522, total numsteps: 17203, episode steps: 180, reward: 274.05
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 523, total numsteps: 17400, episode steps: 197, reward: 357.47
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 524, total numsteps: 17517, episode steps: 117, reward: 203.72
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 525, total numsteps: 18215, episode steps: 698, reward: 737.42
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 526, total numsteps: 19215, episode steps: 1000, reward: 905.33
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 527, total numsteps: 19380, episode steps: 165, reward: 63.82
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 528, total numsteps: 19504, episode steps: 124, reward: 211.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 529, total numsteps: 19648, episode steps: 144, reward: 222.73
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 530, total numsteps: 19784, episode steps: 136, reward: 232.97
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 276.49
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 531, total numsteps: 19932, episode steps: 148, reward: 236.26
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 532, total numsteps: 20133, episode steps: 201, reward: 277.86
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 533, total numsteps: 20337, episode steps: 204, reward: 262.77
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 534, total numsteps: 20728, episode steps: 391, reward: 339.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 535, total numsteps: 21167, episode steps: 439, reward: 253.59
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 536, total numsteps: 21243, episode steps: 76, reward: -33.0
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 537, total numsteps: 21392, episode steps: 149, reward: -1.83
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 538, total numsteps: 21761, episode steps: 369, reward: -13.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 539, total numsteps: 21869, episode steps: 108, reward: -29.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 540, total numsteps: 21956, episode steps: 87, reward: 3.66
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -14.28
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 541, total numsteps: 22072, episode steps: 116, reward: -18.41
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 542, total numsteps: 22163, episode steps: 91, reward: -17.51
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 543, total numsteps: 22275, episode steps: 112, reward: -47.76
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 544, total numsteps: 22400, episode steps: 125, reward: -22.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 545, total numsteps: 22488, episode steps: 88, reward: -30.18
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 546, total numsteps: 22592, episode steps: 104, reward: -68.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 547, total numsteps: 22727, episode steps: 135, reward: -12.1
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 548, total numsteps: 22810, episode steps: 83, reward: 3.95
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 549, total numsteps: 22976, episode steps: 166, reward: 68.44
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 550, total numsteps: 23116, episode steps: 140, reward: -35.55
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -27.78
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 551, total numsteps: 23222, episode steps: 106, reward: -34.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 552, total numsteps: 23372, episode steps: 150, reward: -14.58
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 553, total numsteps: 23480, episode steps: 108, reward: -19.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 554, total numsteps: 23577, episode steps: 97, reward: -64.44
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 555, total numsteps: 23683, episode steps: 106, reward: -8.02
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 556, total numsteps: 23868, episode steps: 185, reward: 254.63
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 557, total numsteps: 24042, episode steps: 174, reward: 82.59
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 558, total numsteps: 24388, episode steps: 346, reward: 223.44
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 559, total numsteps: 24597, episode steps: 209, reward: 16.6
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 560, total numsteps: 24821, episode steps: 224, reward: 380.71
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 453.03
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 561, total numsteps: 25141, episode steps: 320, reward: 437.85
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 562, total numsteps: 25317, episode steps: 176, reward: 258.79
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 563, total numsteps: 25481, episode steps: 164, reward: 293.86
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 564, total numsteps: 25589, episode steps: 108, reward: 135.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 565, total numsteps: 25782, episode steps: 193, reward: 280.11
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 566, total numsteps: 25913, episode steps: 131, reward: 165.52
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 567, total numsteps: 26036, episode steps: 123, reward: 221.78
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 568, total numsteps: 26135, episode steps: 99, reward: 136.02
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 569, total numsteps: 26351, episode steps: 216, reward: 331.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 570, total numsteps: 26434, episode steps: 83, reward: 132.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 243.78
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 571, total numsteps: 26698, episode steps: 264, reward: 352.6
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 572, total numsteps: 26841, episode steps: 143, reward: 236.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 573, total numsteps: 27030, episode steps: 189, reward: 349.73
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 574, total numsteps: 27189, episode steps: 159, reward: 244.18
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 575, total numsteps: 27302, episode steps: 113, reward: 223.47
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 576, total numsteps: 27398, episode steps: 96, reward: 178.03
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 577, total numsteps: 27518, episode steps: 120, reward: 209.77
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 578, total numsteps: 27773, episode steps: 255, reward: 385.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 579, total numsteps: 28146, episode steps: 373, reward: 464.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 580, total numsteps: 28290, episode steps: 144, reward: 254.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 508.58
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 581, total numsteps: 28411, episode steps: 121, reward: 218.26
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 582, total numsteps: 28616, episode steps: 205, reward: 318.62
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 583, total numsteps: 29616, episode steps: 1000, reward: 1049.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 584, total numsteps: 29951, episode steps: 335, reward: 478.43
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 585, total numsteps: 30110, episode steps: 159, reward: 301.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 586, total numsteps: 30337, episode steps: 227, reward: 396.92
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 587, total numsteps: 30591, episode steps: 254, reward: 447.64
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 588, total numsteps: 30943, episode steps: 352, reward: 312.83
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 589, total numsteps: 31079, episode steps: 136, reward: 193.6
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 590, total numsteps: 31271, episode steps: 192, reward: 57.24
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 211.87
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 591, total numsteps: 31447, episode steps: 176, reward: 317.85
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 592, total numsteps: 31668, episode steps: 221, reward: 291.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 593, total numsteps: 31945, episode steps: 277, reward: 463.63
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 594, total numsteps: 32123, episode steps: 178, reward: 317.21
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 595, total numsteps: 32329, episode steps: 206, reward: 248.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 596, total numsteps: 32440, episode steps: 111, reward: 18.18
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 597, total numsteps: 32542, episode steps: 102, reward: -11.97
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 598, total numsteps: 32702, episode steps: 160, reward: 235.72
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 599, total numsteps: 32896, episode steps: 194, reward: 296.1
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 600, total numsteps: 33027, episode steps: 131, reward: 217.17
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 220.11
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 601, total numsteps: 33264, episode steps: 237, reward: 387.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 602, total numsteps: 33409, episode steps: 145, reward: 264.05
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 603, total numsteps: 33578, episode steps: 169, reward: 276.72
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 604, total numsteps: 33751, episode steps: 173, reward: 299.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 605, total numsteps: 33898, episode steps: 147, reward: 272.02
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 606, total numsteps: 33982, episode steps: 84, reward: -0.65
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 607, total numsteps: 34419, episode steps: 437, reward: 251.12
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 608, total numsteps: 34613, episode steps: 194, reward: 116.09
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 609, total numsteps: 35016, episode steps: 403, reward: 474.11
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 610, total numsteps: 35244, episode steps: 228, reward: 374.33
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 151.07
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 611, total numsteps: 35405, episode steps: 161, reward: 264.15
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 612, total numsteps: 35558, episode steps: 153, reward: 239.33
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 613, total numsteps: 35699, episode steps: 141, reward: 248.21
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 614, total numsteps: 35894, episode steps: 195, reward: 277.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 615, total numsteps: 36108, episode steps: 214, reward: 328.71
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 616, total numsteps: 36256, episode steps: 148, reward: 69.7
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 617, total numsteps: 36356, episode steps: 100, reward: 161.83
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 618, total numsteps: 36501, episode steps: 145, reward: 248.75
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 619, total numsteps: 36655, episode steps: 154, reward: 263.02
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 620, total numsteps: 36803, episode steps: 148, reward: 248.35
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 327.11
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 621, total numsteps: 37088, episode steps: 285, reward: 346.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 622, total numsteps: 37249, episode steps: 161, reward: 238.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 623, total numsteps: 37403, episode steps: 154, reward: -27.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 624, total numsteps: 37602, episode steps: 199, reward: 335.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 625, total numsteps: 37744, episode steps: 142, reward: 225.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 626, total numsteps: 37954, episode steps: 210, reward: 349.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 627, total numsteps: 38071, episode steps: 117, reward: 190.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 628, total numsteps: 38529, episode steps: 458, reward: 244.92
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 629, total numsteps: 38668, episode steps: 139, reward: 245.25
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 630, total numsteps: 39210, episode steps: 542, reward: 247.02
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 245.25
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 631, total numsteps: 39328, episode steps: 118, reward: -9.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 632, total numsteps: 39429, episode steps: 101, reward: -3.96
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 633, total numsteps: 39626, episode steps: 197, reward: 297.25
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 634, total numsteps: 39835, episode steps: 209, reward: 314.35
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 635, total numsteps: 40034, episode steps: 199, reward: 24.26
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 636, total numsteps: 40516, episode steps: 482, reward: 403.99
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 637, total numsteps: 40703, episode steps: 187, reward: 264.35
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 638, total numsteps: 41216, episode steps: 513, reward: 476.06
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 639, total numsteps: 41374, episode steps: 158, reward: 239.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 640, total numsteps: 41518, episode steps: 144, reward: 236.82
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 244.89
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 641, total numsteps: 42518, episode steps: 1000, reward: 791.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 642, total numsteps: 42950, episode steps: 432, reward: 181.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 643, total numsteps: 43151, episode steps: 201, reward: 334.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 644, total numsteps: 43354, episode steps: 203, reward: 314.99
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 645, total numsteps: 43523, episode steps: 169, reward: 215.89
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 646, total numsteps: 43693, episode steps: 170, reward: 259.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 647, total numsteps: 43838, episode steps: 145, reward: 10.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 648, total numsteps: 44096, episode steps: 258, reward: 311.65
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 649, total numsteps: 44329, episode steps: 233, reward: 337.6
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 650, total numsteps: 44745, episode steps: 416, reward: 468.05
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 346.4
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 651, total numsteps: 45009, episode steps: 264, reward: 332.06
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 652, total numsteps: 45281, episode steps: 272, reward: 121.67
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 653, total numsteps: 45461, episode steps: 180, reward: 48.33
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 654, total numsteps: 45668, episode steps: 207, reward: 71.44
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 655, total numsteps: 46389, episode steps: 721, reward: 769.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 656, total numsteps: 46789, episode steps: 400, reward: 295.01
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 657, total numsteps: 46947, episode steps: 158, reward: 55.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 658, total numsteps: 47090, episode steps: 143, reward: 45.67
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 659, total numsteps: 47321, episode steps: 231, reward: 449.79
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 660, total numsteps: 47620, episode steps: 299, reward: 80.46
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 420.78
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 661, total numsteps: 47830, episode steps: 210, reward: 318.66
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 662, total numsteps: 48056, episode steps: 226, reward: 357.35
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 663, total numsteps: 48251, episode steps: 195, reward: 35.36
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 664, total numsteps: 48744, episode steps: 493, reward: 680.85
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 665, total numsteps: 49199, episode steps: 455, reward: 487.59
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 666, total numsteps: 49457, episode steps: 258, reward: 45.6
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 667, total numsteps: 49638, episode steps: 181, reward: 83.69
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 668, total numsteps: 49845, episode steps: 207, reward: 349.12
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 669, total numsteps: 49998, episode steps: 153, reward: 276.59
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 670, total numsteps: 50112, episode steps: 114, reward: 208.83
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 281.03
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 671, total numsteps: 50292, episode steps: 180, reward: 129.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 672, total numsteps: 50532, episode steps: 240, reward: 401.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 673, total numsteps: 50737, episode steps: 205, reward: 331.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 674, total numsteps: 50856, episode steps: 119, reward: 194.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 675, total numsteps: 51037, episode steps: 181, reward: 315.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 676, total numsteps: 51293, episode steps: 256, reward: 396.36
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 677, total numsteps: 51538, episode steps: 245, reward: 111.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 678, total numsteps: 51799, episode steps: 261, reward: 407.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 679, total numsteps: 52295, episode steps: 496, reward: 688.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 680, total numsteps: 52492, episode steps: 197, reward: 347.22
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 308.24
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 681, total numsteps: 52767, episode steps: 275, reward: 447.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 682, total numsteps: 52891, episode steps: 124, reward: 204.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 683, total numsteps: 53031, episode steps: 140, reward: 311.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 684, total numsteps: 53172, episode steps: 141, reward: 236.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 685, total numsteps: 53367, episode steps: 195, reward: 371.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 686, total numsteps: 53570, episode steps: 203, reward: 382.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 687, total numsteps: 53692, episode steps: 122, reward: 238.73
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 688, total numsteps: 53863, episode steps: 171, reward: 346.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 689, total numsteps: 54041, episode steps: 178, reward: 351.65
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 690, total numsteps: 54179, episode steps: 138, reward: 266.12
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 389.53
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 691, total numsteps: 54367, episode steps: 188, reward: 391.7
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 692, total numsteps: 54499, episode steps: 132, reward: 233.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 693, total numsteps: 54633, episode steps: 134, reward: 240.24
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 694, total numsteps: 54766, episode steps: 133, reward: 234.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 695, total numsteps: 54994, episode steps: 228, reward: 386.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 696, total numsteps: 55125, episode steps: 131, reward: 260.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 697, total numsteps: 55310, episode steps: 185, reward: 387.57
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 698, total numsteps: 55478, episode steps: 168, reward: 347.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 699, total numsteps: 55618, episode steps: 140, reward: 263.53
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 700, total numsteps: 55814, episode steps: 196, reward: 371.23
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 358.61
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 701, total numsteps: 56001, episode steps: 187, reward: 375.36
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 702, total numsteps: 56162, episode steps: 161, reward: 318.12
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 703, total numsteps: 56350, episode steps: 188, reward: 362.49
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 704, total numsteps: 56560, episode steps: 210, reward: 348.49
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 705, total numsteps: 56728, episode steps: 168, reward: 329.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 706, total numsteps: 56890, episode steps: 162, reward: 347.12
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 707, total numsteps: 57030, episode steps: 140, reward: 270.75
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic
+Episode: 708, total numsteps: 57238, episode steps: 208, reward: 430.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Walker2d-v2/2/sac_critic

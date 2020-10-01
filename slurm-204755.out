@@ -1,0 +1,321 @@
+Episode: 1, total numsteps: 69, episode steps: 69, reward: 6.9
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 2, total numsteps: 1069, episode steps: 1000, reward: -306.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 3, total numsteps: 1104, episode steps: 35, reward: -4.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 4, total numsteps: 1226, episode steps: 122, reward: -42.68
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 5, total numsteps: 1349, episode steps: 123, reward: -24.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 6, total numsteps: 1464, episode steps: 115, reward: 23.37
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 7, total numsteps: 1484, episode steps: 20, reward: -15.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 8, total numsteps: 2484, episode steps: 1000, reward: -385.82
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 9, total numsteps: 2590, episode steps: 106, reward: -35.36
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 10, total numsteps: 2661, episode steps: 71, reward: -32.71
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 105.58
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 11, total numsteps: 2677, episode steps: 16, reward: -5.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 12, total numsteps: 2825, episode steps: 148, reward: -62.95
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 13, total numsteps: 3037, episode steps: 212, reward: 2.77
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 14, total numsteps: 3062, episode steps: 25, reward: 4.65
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 15, total numsteps: 3101, episode steps: 39, reward: -17.18
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 16, total numsteps: 4101, episode steps: 1000, reward: -330.43
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 17, total numsteps: 4140, episode steps: 39, reward: -4.46
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 18, total numsteps: 4151, episode steps: 11, reward: -5.89
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 19, total numsteps: 4324, episode steps: 173, reward: -82.1
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 20, total numsteps: 4482, episode steps: 158, reward: 28.63
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -703.99
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 21, total numsteps: 4534, episode steps: 52, reward: 0.49
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 22, total numsteps: 5534, episode steps: 1000, reward: -340.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 23, total numsteps: 5555, episode steps: 21, reward: -18.21
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 24, total numsteps: 5986, episode steps: 431, reward: 53.57
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 25, total numsteps: 6071, episode steps: 85, reward: -9.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 26, total numsteps: 6172, episode steps: 101, reward: -26.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 27, total numsteps: 6186, episode steps: 14, reward: -18.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 28, total numsteps: 6276, episode steps: 90, reward: 7.69
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 29, total numsteps: 6354, episode steps: 78, reward: -1.78
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 30, total numsteps: 6370, episode steps: 16, reward: -6.08
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -663.65
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 31, total numsteps: 6405, episode steps: 35, reward: -19.97
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 32, total numsteps: 6424, episode steps: 19, reward: -14.62
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 33, total numsteps: 6549, episode steps: 125, reward: -1.63
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 34, total numsteps: 6581, episode steps: 32, reward: -14.02
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 35, total numsteps: 6650, episode steps: 69, reward: -23.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 36, total numsteps: 6729, episode steps: 79, reward: -31.2
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 37, total numsteps: 6851, episode steps: 122, reward: -70.35
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 38, total numsteps: 7004, episode steps: 153, reward: -57.72
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 39, total numsteps: 7065, episode steps: 61, reward: -10.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 40, total numsteps: 7091, episode steps: 26, reward: -33.38
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -356.65
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 41, total numsteps: 7159, episode steps: 68, reward: -2.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 42, total numsteps: 8159, episode steps: 1000, reward: -338.52
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 43, total numsteps: 8172, episode steps: 13, reward: -6.18
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 44, total numsteps: 8353, episode steps: 181, reward: -94.27
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 45, total numsteps: 8516, episode steps: 163, reward: -16.82
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 46, total numsteps: 8584, episode steps: 68, reward: -38.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 47, total numsteps: 9584, episode steps: 1000, reward: -302.63
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 48, total numsteps: 9603, episode steps: 19, reward: -8.77
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 49, total numsteps: 9618, episode steps: 15, reward: -6.63
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 50, total numsteps: 9764, episode steps: 146, reward: -62.33
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -222.11
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 51, total numsteps: 10022, episode steps: 258, reward: -70.63
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 52, total numsteps: 11022, episode steps: 1000, reward: -682.9
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 53, total numsteps: 11178, episode steps: 156, reward: -130.55
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 54, total numsteps: 12178, episode steps: 1000, reward: -573.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 55, total numsteps: 12192, episode steps: 14, reward: -2.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 56, total numsteps: 12313, episode steps: 121, reward: -73.54
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 57, total numsteps: 12361, episode steps: 48, reward: 20.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 58, total numsteps: 12483, episode steps: 122, reward: -19.62
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 59, total numsteps: 12496, episode steps: 13, reward: -11.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 60, total numsteps: 12572, episode steps: 76, reward: -11.39
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -29.97
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 61, total numsteps: 13572, episode steps: 1000, reward: -360.66
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 62, total numsteps: 13663, episode steps: 91, reward: -40.34
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 63, total numsteps: 13763, episode steps: 100, reward: -62.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 64, total numsteps: 13846, episode steps: 83, reward: -17.14
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 65, total numsteps: 13905, episode steps: 59, reward: -35.8
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 66, total numsteps: 14051, episode steps: 146, reward: -105.66
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 67, total numsteps: 14175, episode steps: 124, reward: -23.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 68, total numsteps: 14200, episode steps: 25, reward: -10.25
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 69, total numsteps: 14213, episode steps: 13, reward: -8.08
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 70, total numsteps: 14253, episode steps: 40, reward: -35.75
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 85.8
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 71, total numsteps: 14410, episode steps: 157, reward: -78.49
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 72, total numsteps: 14522, episode steps: 112, reward: -27.42
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 73, total numsteps: 14766, episode steps: 244, reward: -40.19
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 74, total numsteps: 14859, episode steps: 93, reward: -17.57
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 75, total numsteps: 15211, episode steps: 352, reward: -76.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 76, total numsteps: 15383, episode steps: 172, reward: -95.51
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 77, total numsteps: 16383, episode steps: 1000, reward: -289.67
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 78, total numsteps: 16477, episode steps: 94, reward: 13.47
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 79, total numsteps: 16610, episode steps: 133, reward: -38.98
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 80, total numsteps: 16640, episode steps: 30, reward: -10.73
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 167.33
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 81, total numsteps: 16682, episode steps: 42, reward: 4.38
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 82, total numsteps: 17682, episode steps: 1000, reward: -232.71
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 83, total numsteps: 17721, episode steps: 39, reward: 1.91
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 84, total numsteps: 17818, episode steps: 97, reward: -26.8
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 85, total numsteps: 18182, episode steps: 364, reward: -207.26
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 86, total numsteps: 18224, episode steps: 42, reward: -5.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 87, total numsteps: 18258, episode steps: 34, reward: 3.61
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 88, total numsteps: 18355, episode steps: 97, reward: -18.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 89, total numsteps: 18639, episode steps: 284, reward: -34.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 90, total numsteps: 19156, episode steps: 517, reward: -39.82
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 127.42
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 91, total numsteps: 19328, episode steps: 172, reward: -49.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 92, total numsteps: 20328, episode steps: 1000, reward: -152.16
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 93, total numsteps: 20410, episode steps: 82, reward: -19.89
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 94, total numsteps: 21410, episode steps: 1000, reward: -200.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 95, total numsteps: 21432, episode steps: 22, reward: -6.21
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 96, total numsteps: 21603, episode steps: 171, reward: 0.85
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 97, total numsteps: 22603, episode steps: 1000, reward: -106.94
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 98, total numsteps: 22648, episode steps: 45, reward: -0.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 99, total numsteps: 23648, episode steps: 1000, reward: -138.92
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 100, total numsteps: 23775, episode steps: 127, reward: -5.21
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 285.72
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 101, total numsteps: 24775, episode steps: 1000, reward: -129.7
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 102, total numsteps: 25775, episode steps: 1000, reward: -113.84
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 103, total numsteps: 26775, episode steps: 1000, reward: -97.37
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 104, total numsteps: 27010, episode steps: 235, reward: -49.63
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 105, total numsteps: 27175, episode steps: 165, reward: 12.02
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 106, total numsteps: 27722, episode steps: 547, reward: 53.85
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 107, total numsteps: 27854, episode steps: 132, reward: -6.82
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 108, total numsteps: 27964, episode steps: 110, reward: -19.23
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 109, total numsteps: 27977, episode steps: 13, reward: 2.59
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 110, total numsteps: 28077, episode steps: 100, reward: 21.62
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 425.04
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 111, total numsteps: 28090, episode steps: 13, reward: -6.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 112, total numsteps: 29090, episode steps: 1000, reward: -127.69
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 113, total numsteps: 30090, episode steps: 1000, reward: -159.12
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 114, total numsteps: 30602, episode steps: 512, reward: 11.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 115, total numsteps: 30806, episode steps: 204, reward: 14.22
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 116, total numsteps: 31806, episode steps: 1000, reward: 36.48
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 117, total numsteps: 32021, episode steps: 215, reward: 18.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 118, total numsteps: 33021, episode steps: 1000, reward: -59.1
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 119, total numsteps: 34021, episode steps: 1000, reward: 75.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 120, total numsteps: 34185, episode steps: 164, reward: -4.34
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 518.06
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 121, total numsteps: 34262, episode steps: 77, reward: -2.37
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 122, total numsteps: 35262, episode steps: 1000, reward: 50.84
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 123, total numsteps: 35327, episode steps: 65, reward: -10.29
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 124, total numsteps: 36327, episode steps: 1000, reward: -67.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 125, total numsteps: 36628, episode steps: 301, reward: 94.92
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 126, total numsteps: 37308, episode steps: 680, reward: 26.71
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 127, total numsteps: 37711, episode steps: 403, reward: 57.8
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 128, total numsteps: 37757, episode steps: 46, reward: -12.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 129, total numsteps: 38757, episode steps: 1000, reward: -7.53
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 130, total numsteps: 38922, episode steps: 165, reward: 9.06
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 571.69
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 131, total numsteps: 39256, episode steps: 334, reward: 60.37
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 132, total numsteps: 39387, episode steps: 131, reward: 68.09
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 133, total numsteps: 39447, episode steps: 60, reward: -14.0
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 134, total numsteps: 39577, episode steps: 130, reward: -25.82
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 135, total numsteps: 40577, episode steps: 1000, reward: -91.37
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 136, total numsteps: 40689, episode steps: 112, reward: 29.28
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 137, total numsteps: 41062, episode steps: 373, reward: 80.41
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 138, total numsteps: 41417, episode steps: 355, reward: -30.75
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 139, total numsteps: 42417, episode steps: 1000, reward: -26.8
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/Ant-v2/3/sac_critic
+Episode: 140, total numsteps: 43417, episode steps: 1000, reward: -9.92
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 512.92
+----------------------------------------
