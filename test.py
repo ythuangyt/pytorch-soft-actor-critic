@@ -9,8 +9,7 @@ import random
 import torch
 from torch.distributions import uniform
 
-from TD3 import TD3
-from utils import load_model
+from sac import SAC
 import ast
 
 parser = argparse.ArgumentParser()
