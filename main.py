@@ -5,7 +5,7 @@ import numpy as np
 import itertools
 import torch
 from sac import SAC
-#from torch.utils.tensorboard import SummaryWriter
+import os
 from replay_memory import ReplayMemory
 
 parser = argparse.ArgumentParser(description='PyTorch Soft Actor-Critic Args')
@@ -46,7 +46,7 @@ parser.add_argument('--cuda', action="store_true",
                     help='run on CUDA (default: False)')
 args = parser.parse_args()
 
-base_dir = os.getcwd() + '/models/' + args.env + '/'
+base_dir = os.getcwd() + '/models/' + args.env-name + '/'
 
 run_number = 0
 while os.path.exists(base_dir + str(run_number)):
@@ -109,7 +109,7 @@ for i_episode in itertools.count(1):
     if total_numsteps > args.num_steps:
         break
 
-     print("Episode: {}, total numsteps: {}, episode steps: {}, reward: {}".format(i_episode, total_numsteps, episode_steps, round(episode_reward, 2)))
+    print("Episode: {}, total numsteps: {}, episode steps: {}, reward: {}".format(i_episode, total_numsteps, episode_steps, round(episode_reward, 2)))
 
     if i_episode % 10 == 0 and args.eval is True:
         avg_reward = 0.

@@ -93,7 +93,7 @@ for env_name in [args.env]:#os.listdir(base_dir):
     env_dir = base_dir + env_name
     for optimizer in [args.optimizer]: #['RMSprop', 'SGLD_thermal_0.01', 'SGLD_thermal_0.001', 'SGLD_thermal_0.0001', 'SGLD_thermal_1e-05']:
         for noise_type in [args.action_noise]:
-            noise_dir = env_dir
+            noise_dir = env_dir + '/'
 
             if os.path.exists(noise_dir):
                 for subdir in sorted(os.listdir(noise_dir)):#[str(args.seed)]
