@@ -46,6 +46,15 @@ parser.add_argument('--cuda', action="store_true",
                     help='run on CUDA (default: False)')
 args = parser.parse_args()
 
+base_dir = os.getcwd() + '/models/' + args.env + '/'
+
+run_number = 0
+while os.path.exists(base_dir + str(run_number)):
+    run_number += 1
+base_dir = base_dir + str(run_number)
+
+os.makedirs(base_dir)
+
 # Environment
 # env = NormalizedActions(gym.make(args.env_name))
 env = gym.make(args.env_name)
@@ -123,5 +132,5 @@ for i_episode in itertools.count(1):
         print("----------------------------------------")
         print("Test Episodes: {}, Avg. Reward: {}".format(episodes, round(avg_reward, 2)))
         print("----------------------------------------")
-    agent.save_model(args.env_name)
+    agent.save_model(args.env_name, basedir=base_dir)
 env.close()
