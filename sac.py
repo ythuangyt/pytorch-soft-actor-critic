@@ -117,10 +117,12 @@ class SAC(object):
         torch.save(self.critic.state_dict(), critic_path)
 
     # Load model parameters
-    def load_model(self, actor_path, critic_path):
+    def load_model(self, basedir=None):
+        actor_path = "{}/sac_actor".format(basedir)
+        critic_path = "{}/sac_critic".format(basedir)
+
         print('Loading models from {} and {}'.format(actor_path, critic_path))
         if actor_path is not None:
             self.policy.load_state_dict(torch.load(actor_path))
         if critic_path is not None:
             self.critic.load_state_dict(torch.load(critic_path))
-
