@@ -1,0 +1,149 @@
+Episode: 1, total numsteps: 1000, episode steps: 1000, reward: -307.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 2, total numsteps: 2000, episode steps: 1000, reward: -176.04
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 3, total numsteps: 3000, episode steps: 1000, reward: -235.88
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 4, total numsteps: 4000, episode steps: 1000, reward: -341.0
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 5, total numsteps: 5000, episode steps: 1000, reward: -244.72
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 6, total numsteps: 6000, episode steps: 1000, reward: -240.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 7, total numsteps: 7000, episode steps: 1000, reward: -259.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 8, total numsteps: 8000, episode steps: 1000, reward: -356.66
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 9, total numsteps: 9000, episode steps: 1000, reward: -443.84
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 10, total numsteps: 10000, episode steps: 1000, reward: -250.75
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -160.55
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 11, total numsteps: 11000, episode steps: 1000, reward: -161.07
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 12, total numsteps: 12000, episode steps: 1000, reward: -184.12
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 13, total numsteps: 13000, episode steps: 1000, reward: -216.81
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 14, total numsteps: 14000, episode steps: 1000, reward: -239.87
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 15, total numsteps: 15000, episode steps: 1000, reward: -235.71
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 16, total numsteps: 16000, episode steps: 1000, reward: -160.01
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 17, total numsteps: 17000, episode steps: 1000, reward: -67.77
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 18, total numsteps: 18000, episode steps: 1000, reward: -169.66
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 19, total numsteps: 19000, episode steps: 1000, reward: 56.93
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 20, total numsteps: 20000, episode steps: 1000, reward: 8.16
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 736.27
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 21, total numsteps: 21000, episode steps: 1000, reward: -37.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 22, total numsteps: 22000, episode steps: 1000, reward: 302.41
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 23, total numsteps: 23000, episode steps: 1000, reward: 399.13
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 24, total numsteps: 24000, episode steps: 1000, reward: -114.54
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 25, total numsteps: 25000, episode steps: 1000, reward: -31.6
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 26, total numsteps: 26000, episode steps: 1000, reward: 115.8
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 27, total numsteps: 27000, episode steps: 1000, reward: 307.3
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 28, total numsteps: 28000, episode steps: 1000, reward: 77.47
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 29, total numsteps: 29000, episode steps: 1000, reward: 166.42
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 30, total numsteps: 30000, episode steps: 1000, reward: -94.65
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 745.91
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 31, total numsteps: 31000, episode steps: 1000, reward: 220.57
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 32, total numsteps: 32000, episode steps: 1000, reward: 251.76
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 33, total numsteps: 33000, episode steps: 1000, reward: 719.27
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 34, total numsteps: 34000, episode steps: 1000, reward: -20.62
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 35, total numsteps: 35000, episode steps: 1000, reward: 105.78
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 36, total numsteps: 36000, episode steps: 1000, reward: 553.85
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 37, total numsteps: 37000, episode steps: 1000, reward: 174.25
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 38, total numsteps: 38000, episode steps: 1000, reward: 1449.47
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 39, total numsteps: 39000, episode steps: 1000, reward: 1018.91
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 40, total numsteps: 40000, episode steps: 1000, reward: 482.88
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1929.99
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 41, total numsteps: 41000, episode steps: 1000, reward: 811.53
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 42, total numsteps: 42000, episode steps: 1000, reward: 1968.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 43, total numsteps: 43000, episode steps: 1000, reward: 1223.8
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 44, total numsteps: 44000, episode steps: 1000, reward: 602.78
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 45, total numsteps: 45000, episode steps: 1000, reward: 1309.17
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 46, total numsteps: 46000, episode steps: 1000, reward: 306.5
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 47, total numsteps: 47000, episode steps: 1000, reward: 1898.97
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 48, total numsteps: 48000, episode steps: 1000, reward: 128.95
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 49, total numsteps: 49000, episode steps: 1000, reward: 787.33
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 50, total numsteps: 50000, episode steps: 1000, reward: 2091.37
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 2338.45
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 51, total numsteps: 51000, episode steps: 1000, reward: 2205.36
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 52, total numsteps: 52000, episode steps: 1000, reward: 474.32
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 53, total numsteps: 53000, episode steps: 1000, reward: 2301.95
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 54, total numsteps: 54000, episode steps: 1000, reward: 2201.49
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 55, total numsteps: 55000, episode steps: 1000, reward: 2543.56
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 56, total numsteps: 56000, episode steps: 1000, reward: 394.65
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 57, total numsteps: 57000, episode steps: 1000, reward: 2757.74
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 58, total numsteps: 58000, episode steps: 1000, reward: 2178.45
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 59, total numsteps: 59000, episode steps: 1000, reward: 2472.86
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 60, total numsteps: 60000, episode steps: 1000, reward: 2639.52
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 3347.06
+----------------------------------------
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 61, total numsteps: 61000, episode steps: 1000, reward: 3095.01
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 62, total numsteps: 62000, episode steps: 1000, reward: 2937.24
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 63, total numsteps: 63000, episode steps: 1000, reward: 2884.77
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 64, total numsteps: 64000, episode steps: 1000, reward: 3307.31
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 65, total numsteps: 65000, episode steps: 1000, reward: 3189.54
+Saving models to /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_actor and /home/ythuang/pytorch-soft-actor-critic/models/HalfCheetah-v2/3/sac_critic
+Episode: 66, total numsteps: 66000, episode steps: 1000, reward: 1458.08

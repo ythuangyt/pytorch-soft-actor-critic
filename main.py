@@ -7,6 +7,7 @@ import torch
 from sac import SAC
 #from torch.utils.tensorboard import SummaryWriter
 from replay_memory import ReplayMemory
+import os
 
 parser = argparse.ArgumentParser(description='PyTorch Soft Actor-Critic Args')
 parser.add_argument('--env-name', default="HalfCheetah-v2",
@@ -109,7 +110,7 @@ for i_episode in itertools.count(1):
     if total_numsteps > args.num_steps:
         break
 
-     print("Episode: {}, total numsteps: {}, episode steps: {}, reward: {}".format(i_episode, total_numsteps, episode_steps, round(episode_reward, 2)))
+    print("Episode: {}, total numsteps: {}, episode steps: {}, reward: {}".format(i_episode, total_numsteps, episode_steps, round(episode_reward, 2)))
 
     if i_episode % 10 == 0 and args.eval is True:
         avg_reward = 0.
