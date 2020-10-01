@@ -27,7 +27,7 @@ if not os.path.isfile(args.script_name):
 for env in args.env:
     for model_type in ['model', 'friction']:#, "model_friction", "friction_noise", "model_noise"]:
 
-        path = f'{env}/test'
+        path = f'{env}/{model_type}'
         if not os.path.isdir(f'{args.logs_folder}/{path}'):
             os.makedirs(f'{args.logs_folder}/{path}')
         print(path)
